@@ -1385,7 +1385,7 @@
           },
           "expanded": {
             "background-color": {
-              "value": "{draad.color.gray.50}",
+              "value": "{draad.color.gray.100}",
               "type": "color"
             },
             "border-color": {
@@ -1399,7 +1399,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{draad.color.gray.50}"
+            "value": "{draad.color.gray.100}"
           },
           "border-color": {
             "value": "transparent",
