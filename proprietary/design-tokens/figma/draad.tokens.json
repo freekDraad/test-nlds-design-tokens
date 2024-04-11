@@ -440,15 +440,15 @@
       },
       "border-radius": {
         "sm": {
-          "value": "4px",
+          "value": "0px",
           "type": "borderRadius"
         },
         "md": {
-          "value": "8px",
+          "value": "0px",
           "type": "borderRadius"
         },
         "lg": {
-          "value": "16px",
+          "value": "0px",
           "type": "borderRadius"
         },
         "round": {
@@ -689,7 +689,7 @@
       },
       "focus": {
         "background-color": {
-          "value": "{draad.color.yellow.200}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "color": {
@@ -697,7 +697,7 @@
           "type": "color"
         },
         "outline-color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.200}",
           "type": "color"
         },
         "inverse": {
