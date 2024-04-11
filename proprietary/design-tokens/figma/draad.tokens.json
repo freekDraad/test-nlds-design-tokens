@@ -647,6 +647,10 @@
         "font-weight": {
           "value": "{draad.typography.font-weight.bold}",
           "type": "fontWeights"
+        },
+        "bright": {
+          "value": "{draad.color.red.100}",
+          "type": "color"
         }
       },
       "container": {
