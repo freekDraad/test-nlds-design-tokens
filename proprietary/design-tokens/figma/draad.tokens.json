@@ -156,11 +156,7 @@
         },
         "blue": {
           "100": {
-            "value": "#8E9ED1",
-            "type": "color"
-          },
-          "200": {
-            "value": "#27358B",
+            "value": "#0076AF",
             "type": "color"
           }
         },
@@ -701,7 +697,7 @@
           "type": "color"
         },
         "outline-color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "inverse": {
@@ -890,11 +886,11 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{draad.color.blue.200}",
+            "value": "{draad.color.blue.100}",
             "type": "color"
           },
           "color": {
-            "value": "{draad.color.blue.200}",
+            "value": "{draad.color.blue.100}",
             "type": "color"
           }
         },
