@@ -8,11 +8,11 @@
       "marker": {
         "border-color": {
           "type": "color",
-          "value": "{utrecht.document.color}"
+          "value": "{draad.color.blue.100}"
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.document.color}"
+          "value": "{draad.color.blue.100}"
         }
       },
       "font-family": {

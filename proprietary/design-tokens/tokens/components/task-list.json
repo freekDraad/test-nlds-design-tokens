@@ -13,7 +13,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{draad.color.green.200}"
+            "value": "{draad.color.green.100}"
           },
           "border-color": {
             "type": "color",
