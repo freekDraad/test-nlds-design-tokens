@@ -79,28 +79,28 @@
         "hover": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.green.200}"
+            "value": "{draad.color.gray.100}"
           },
           "border-color": {
             "type": "color",
-            "value": "transparent"
+            "value": "{draad.color.red.200}"
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.white}"
+            "value": "{draad.color.red.200}"
           }
         },
         "background-color": {
           "type": "color",
-          "value": "{draad.color.green.100}"
+          "value": "{draad.color.white}"
         },
         "border-color": {
           "type": "color",
-          "value": "transparent"
+          "value": "{draad.color.red.100}"
         },
         "color": {
           "type": "color",
-          "value": "{draad.color.white}"
+          "value": "{draad.color.red.100}"
         },
         "disabled": {
           "background-color": {
@@ -141,11 +141,11 @@
           },
           "border-color": {
             "type": "color",
-            "value": "{draad.color.green.100}"
+            "value": "{draad.color.red.100}"
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.green.100}"
+            "value": "{draad.color.red.100}"
           }
         }
       },

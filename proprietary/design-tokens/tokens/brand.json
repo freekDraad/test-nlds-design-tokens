@@ -119,7 +119,11 @@
       },
       "red": {
         "100": {
-          "value": "#E30613",
+          "value": "#e52713",
+          "type": "color"
+        },
+        "200": {
+          "value": "#8d1003",
           "type": "color"
         }
       },
@@ -136,16 +140,6 @@
         },
         "200": {
           "value": "#5e7523",
-          "type": "color"
-        }
-      },
-      "blue": {
-        "100": {
-          "value": "#009ada",
-          "type": "color"
-        },
-        "200": {
-          "value": "#3a6eb1",
           "type": "color"
         }
       },
