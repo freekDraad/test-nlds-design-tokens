@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 13 May 2024 11:50:40 GMT
+ * Generated on Mon, 13 May 2024 14:48:58 GMT
  */
 
 :root {
@@ -643,6 +643,19 @@
   --utrecht-feedback-warning-background-color: #EF7D00;
   --utrecht-feedback-warning-border-color: #EF7D00;
   --utrecht-feedback-warning-color: #EF7D00;
+  --utrecht-radio-button-background-color: #ffffff;
+  --utrecht-radio-button-border-color: #000000;
+  --utrecht-radio-button-hover-background-color: #ffffff;
+  --utrecht-radio-button-hover-border-color: #0076AF;
+  --utrecht-radio-button-focus-border-color: #254D64;
+  --utrecht-radio-button-checked-background-color: #0076AF;
+  --utrecht-radio-button-checked-border-color: #0076AF;
+  --utrecht-radio-button-checked-hover-background-color: #0076AF;
+  --utrecht-radio-button-checked-hover-border-color: #0076AF;
+  --utrecht-radio-button-checked-active-background-color: #0076AF;
+  --utrecht-radio-button-checked-active-border-color: #0076AF;
+  --utrecht-radio-button-checked-focus-background-color: #0076AF;
+  --utrecht-radio-button-checked-focus-border-color: #0076AF;
   --todo-avatar-background-color: #0076AF;
   --todo-avatar-border-radius: 999px;
   --todo-avatar-size: 48px;
