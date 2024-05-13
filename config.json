@@ -1,5 +1,5 @@
 {
-  "source": ["proprietary/design-tokens/export/**/*.json"],
+  "source": ["proprietary/design-tokens/tokens/**/*.json"],
   "platforms": {
     "css": {
       "transformGroup": "css",
