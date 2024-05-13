@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.black}",
         "type": "color"
       }
     },
@@ -94,29 +94,29 @@
     },
     "interaction": {
       "color": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.blue.100}",
         "type": "color"
       },
       "active": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         }
       },
       "hover": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.200}",
           "type": "color"
         }
       }
     },
     "focus": {
       "background-color": {
-        "value": "{draad.color.blue.100}",
+        "value": "{draad.color.white}",
         "type": "color"
       },
       "color": {
-        "value": "{draad.color.black}",
+        "value": "{draad.color.blue.100}",
         "type": "color"
       },
       "outline-color": {
@@ -347,7 +347,7 @@
       },
       "warning": {
         "background-color": {
-          "value": "{draad.color.yellow.100}",
+          "value": "{draad.color.yellow.200}",
           "type": "color"
         },
         "border-color": {
