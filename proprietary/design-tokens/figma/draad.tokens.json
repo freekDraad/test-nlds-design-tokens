@@ -120,7 +120,11 @@
         },
         "red": {
           "100": {
-            "value": "#E30613",
+            "value": "#e52713",
+            "type": "color"
+          },
+          "200": {
+            "value": "#8d1003",
             "type": "color"
           }
         },
@@ -137,16 +141,6 @@
           },
           "200": {
             "value": "#5e7523",
-            "type": "color"
-          }
-        },
-        "blue": {
-          "100": {
-            "value": "#009ada",
-            "type": "color"
-          },
-          "200": {
-            "value": "#3a6eb1",
             "type": "color"
           }
         },
@@ -661,18 +655,18 @@
       },
       "interaction": {
         "color": {
-          "value": "{draad.color.blue.100}",
+          "value": "{draad.color.red.100}",
           "type": "color"
         },
         "active": {
           "color": {
-            "value": "{draad.color.blue.100}",
+            "value": "{draad.color.red.100}",
             "type": "color"
           }
         },
         "hover": {
           "color": {
-            "value": "{draad.color.blue.200}",
+            "value": "{draad.color.red.200}",
             "type": "color"
           }
         }
@@ -683,11 +677,11 @@
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.blue.100}",
+          "value": "{draad.color.red.100}",
           "type": "color"
         },
         "outline-color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.red.200}",
           "type": "color"
         },
         "inverse": {
@@ -872,15 +866,15 @@
       "feedback": {
         "informative": {
           "background-color": {
-            "value": "{draad.color.blue.100}",
+            "value": "{draad.color.red.100}",
             "type": "color"
           },
           "border-color": {
-            "value": "{draad.color.blue.200}",
+            "value": "{draad.color.red.200}",
             "type": "color"
           },
           "color": {
-            "value": "{draad.color.blue.200}",
+            "value": "{draad.color.red.200}",
             "type": "color"
           }
         },
@@ -1672,28 +1666,28 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{draad.color.green.200}"
+              "value": "{draad.color.gray.100}"
             },
             "border-color": {
               "type": "color",
-              "value": "transparent"
+              "value": "{draad.color.red.200}"
             },
             "color": {
               "type": "color",
-              "value": "{draad.color.white}"
+              "value": "{draad.color.red.200}"
             }
           },
           "background-color": {
             "type": "color",
-            "value": "{draad.color.green.100}"
+            "value": "{draad.color.white}"
           },
           "border-color": {
             "type": "color",
-            "value": "transparent"
+            "value": "{draad.color.red.100}"
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.white}"
+            "value": "{draad.color.red.100}"
           },
           "disabled": {
             "background-color": {
@@ -1734,11 +1728,11 @@
             },
             "border-color": {
               "type": "color",
-              "value": "{draad.color.green.100}"
+              "value": "{draad.color.red.100}"
             },
             "color": {
               "type": "color",
-              "value": "{draad.color.green.100}"
+              "value": "{draad.color.red.100}"
             }
           }
         },
@@ -4875,6 +4869,76 @@
       }
     }
   },
+  "radio-button": {
+    "utrecht": {
+      "radio-button": {
+        "background-color": {
+          "type": "color",
+          "value": "{draad.color.white}"
+        },
+        "border-color": {
+          "type": "color",
+          "value": "{draad.color.black}"
+        },
+        "hover": {
+          "background-color": {
+            "type": "color",
+            "value": "{draad.color.white}"
+          },
+          "border-color": {
+            "type": "color",
+            "value": "{draad.color.red.100}"
+          }
+        },
+        "focus": {
+          "border-color": {
+            "type": "color",
+            "value": "{draad.color.red.200}"
+          }
+        },
+        "checked": {
+          "background-color": {
+            "type": "color",
+            "value": "{draad.color.red.100}"
+          },
+          "border-color": {
+            "type": "color",
+            "value": "{draad.color.red.100}"
+          },
+          "hover": {
+            "background-color": {
+              "type": "color",
+              "value": "{draad.color.red.100}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{draad.color.red.100}"
+            }
+          },
+          "active": {
+            "background-color": {
+              "type": "color",
+              "value": "{draad.color.red.100}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{draad.color.red.100}"
+            }
+          },
+          "focus": {
+            "background-color": {
+              "type": "color",
+              "value": "{draad.color.red.100}"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "{draad.color.red.100}"
+            }
+          }
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -4919,7 +4983,8 @@
       "components/textarea",
       "components/text-input",
       "components/toolbar-button",
-      "components/unordered-list"
+      "components/unordered-list",
+      "radio-button"
     ]
   }
 }
