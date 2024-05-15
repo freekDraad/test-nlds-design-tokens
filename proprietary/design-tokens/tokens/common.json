@@ -56,7 +56,7 @@
     },
     "heading": {
       "color": {
-        "value": "{draad.color.gray.900}",
+        "value": "{draad.color.red.200}",
         "type": "color"
       },
       "font-family": {
@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.gray.800}",
         "type": "color"
       }
     },
@@ -94,25 +94,25 @@
     },
     "interaction": {
       "color": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.green.100}",
         "type": "color"
       },
       "active": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.green.200}",
           "type": "color"
         }
       },
       "hover": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.green.200}",
           "type": "color"
         }
       }
     },
     "focus": {
       "background-color": {
-        "value": "{draad.color.blue.100}",
+        "value": "{draad.color.green.100}",
         "type": "color"
       },
       "color": {
@@ -120,7 +120,7 @@
         "type": "color"
       },
       "outline-color": {
-        "value": "{draad.color.blue.200}",
+        "value": "{draad.color.green.200}",
         "type": "color"
       },
       "inverse": {
@@ -305,15 +305,15 @@
     "feedback": {
       "informative": {
         "background-color": {
-          "value": "{draad.color.blue.100}",
+          "value": "{draad.color.green.100}",
           "type": "color"
         },
         "border-color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.green.200}",
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.green.200}",
           "type": "color"
         }
       },
@@ -337,25 +337,25 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{draad.color.green.200}",
+          "value": "{draad.color.green.100}",
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.green.200}",
+          "value": "{draad.color.green.100}",
           "type": "color"
         }
       },
       "warning": {
         "background-color": {
-          "value": "{draad.color.yellow.100}",
+          "value": "{draad.color.red.100}",
           "type": "color"
         },
         "border-color": {
-          "value": "{draad.color.yellow.200}",
+          "value": "{draad.color.red.200}",
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.yellow.200}",
+          "value": "{draad.color.red.200}",
           "type": "color"
         }
       }
