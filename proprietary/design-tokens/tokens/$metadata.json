@@ -41,6 +41,8 @@
     "components/textarea",
     "components/text-input",
     "components/toolbar-button",
-    "components/unordered-list"
+    "components/unordered-list",
+    "radio-button",
+    "osc_timeline"
   ]
 }

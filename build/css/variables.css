@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 11 Apr 2024 08:35:57 GMT
+ * Generated on Tue, 18 Jun 2024 09:34:50 GMT
  */
 
 :root {
@@ -643,6 +643,19 @@
   --utrecht-feedback-warning-background-color: #F1C053;
   --utrecht-feedback-warning-border-color: #CB8D44;
   --utrecht-feedback-warning-color: #CB8D44;
+  --utrecht-radio-button-background-color: #ffffff;
+  --utrecht-radio-button-border-color: #000000;
+  --utrecht-radio-button-hover-background-color: #ffffff;
+  --utrecht-radio-button-hover-border-color: #8E9ED1;
+  --utrecht-radio-button-focus-border-color: #27358B;
+  --utrecht-radio-button-checked-background-color: #8E9ED1;
+  --utrecht-radio-button-checked-border-color: #8E9ED1;
+  --utrecht-radio-button-checked-hover-background-color: #8E9ED1;
+  --utrecht-radio-button-checked-hover-border-color: #8E9ED1;
+  --utrecht-radio-button-checked-active-background-color: #8E9ED1;
+  --utrecht-radio-button-checked-active-border-color: #8E9ED1;
+  --utrecht-radio-button-checked-focus-background-color: #8E9ED1;
+  --utrecht-radio-button-checked-focus-border-color: #8E9ED1;
   --todo-avatar-background-color: #E30613;
   --todo-avatar-border-radius: 999px;
   --todo-avatar-size: 48px;
@@ -1039,4 +1052,13 @@
   --voorbeeld-space-relation-bekenden: 24px;
   --voorbeeld-space-relation-onbekenden: 32px;
   --voorbeeld-space-relation-onbemind: 64px;
+  --osc-timeline-bullet: #27358B;
+  --osc-timeline-border-color: [object Object];
+  --osc-timeline-title: 20px;
+  --osc-timeline-description: 16px;
+  --osc-timeline-font-weight-title: Bold;
+  --osc-timeline-font-weight-description: Regular;
+  --osc-timeline-spacing-bullet: 12px;
+  --osc-timeline-spacing-row: 32px;
+  --osc-timeline-border-width-line: 2px;
 }

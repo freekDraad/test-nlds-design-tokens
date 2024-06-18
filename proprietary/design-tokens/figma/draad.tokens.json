@@ -4959,6 +4959,58 @@
       }
     }
   },
+  "osc_timeline": {
+    "osc": {
+      "timeline": {
+        "bullet": {
+          "value": "{draad.color.blue.200}",
+          "type": "color"
+        },
+        "border": {
+          "color": {
+            "value": {
+              "color": "{osc.timeline.bullet}"
+            },
+            "type": "border"
+          }
+        },
+        "title": {
+          "value": "{utrecht.heading-4.font-size}",
+          "type": "fontSizes"
+        },
+        "description": {
+          "value": "{utrecht.paragraph.font-size}",
+          "type": "fontSizes"
+        },
+        "font-weight": {
+          "title": {
+            "value": "{draad.typography.font-weight.bold}",
+            "type": "fontWeights"
+          },
+          "description": {
+            "value": "{draad.typography.font-weight.normal}",
+            "type": "fontWeights"
+          }
+        },
+        "spacing": {
+          "bullet": {
+            "value": "{draad.space.block.snail}",
+            "type": "spacing"
+          },
+          "row": {
+            "value": "{draad.space.block.cat}",
+            "type": "spacing"
+          }
+        },
+        "border-width": {
+          "line": {
+            "value": "{draad.space.block.flea}",
+            "type": "borderWidth"
+          }
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -5004,7 +5056,8 @@
       "components/text-input",
       "components/toolbar-button",
       "components/unordered-list",
-      "radio-button"
+      "radio-button",
+      "osc_timeline"
     ]
   }
 }
