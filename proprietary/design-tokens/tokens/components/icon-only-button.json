@@ -2,19 +2,19 @@
   "todo": {
     "icon-only-button": {
       "padding-block-end": {
-        "value": "{draad.space.block.snail}",
+        "value": "{groningen.space.block.12px}",
         "type": "spacing"
       },
       "padding-block-start": {
-        "value": "{draad.space.block.snail}",
+        "value": "{groningen.space.block.12px}",
         "type": "spacing"
       },
       "padding-inline-end": {
-        "value": "{draad.space.inline.snail}",
+        "value": "{groningen.space.inline.12px}",
         "type": "spacing"
       },
       "padding-inline-start": {
-        "value": "{draad.space.inline.snail}",
+        "value": "{groningen.space.inline.12px}",
         "type": "spacing"
       }
     }

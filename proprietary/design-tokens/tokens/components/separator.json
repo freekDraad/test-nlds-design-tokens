@@ -2,19 +2,19 @@
   "utrecht": {
     "separator": {
       "color": {
-        "value": "{utrecht.line.border-color}",
+        "value": "{groningen.line.border-color}",
         "type": "color"
       },
       "block-size": {
-        "value": "{draad.size.4xs}",
+        "value": "{groningen.size.4px}",
         "type": "sizing"
       },
       "padding-block-end": {
-        "value": "{draad.space.block.snail}",
+        "value": "{groningen.space.block.12px}",
         "type": "spacing"
       },
       "padding-block-start": {
-        "value": "{draad.space.block.snail}",
+        "value": "{groningen.space.block.12px}",
         "type": "spacing"
       }
     }

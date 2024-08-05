@@ -2,7 +2,7 @@
   "todo": {
     "form-field-radio-option": {
       "column-gap": {
-        "value": "{draad.space.column.snail}",
+        "value": "{groningen.space.column.8px}",
         "type": "spacing"
       }
     }

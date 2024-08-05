@@ -1,0 +1,82 @@
+{
+  "groningen": {
+    "switch": {
+      "dot": {
+        "size": {
+          "value": "{groningen.size.16px}",
+          "type": "sizing"
+        }
+      },
+      "height-block-size": {
+        "value": "{groningen.size.24px}",
+        "type": "sizing"
+      },
+      "width-block-size": {
+        "value": "{groningen.size.icon.40px}",
+        "type": "sizing"
+      },
+      "padding-inline-start": {
+        "value": "{groningen.space.inline.8px}",
+        "type": "spacing"
+      },
+      "padding-inline-end": {
+        "value": "{groningen.space.inline.8px}",
+        "type": "spacing"
+      },
+      "padding-block-start": {
+        "value": "{groningen.space.block.8px}",
+        "type": "spacing"
+      },
+      "padding-block-end": {
+        "value": "{groningen.space.block.8px}",
+        "type": "spacing"
+      },
+      "off": {
+        "dot-color": {
+          "value": "{groningen.color.white}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{groningen.color.grey.mid}",
+          "type": "color"
+        }
+      },
+      "on": {
+        "dot-color": {
+          "value": "{groningen.color.white}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{groningen.color.blue.cta}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "dot-color": {
+          "value": "{groningen.color.grey.mid}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{groningen.color.grey.background-light}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{groningen.color.grey.mid}",
+          "type": "color"
+        }
+      },
+      "border-radius": {
+        "value": "{groningen.border-radius.16px}",
+        "type": "borderRadius"
+      },
+      "dot-radius": {
+        "value": "{groningen.border-radius.round}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "{groningen.border-width.1px}",
+        "type": "borderWidth"
+      }
+    }
+  }
+}

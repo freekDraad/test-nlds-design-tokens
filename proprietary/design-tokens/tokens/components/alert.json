@@ -3,73 +3,73 @@
     "alert": {
       "heading": {
         "font-family": {
-          "value": "{utrecht.heading.font-family}",
+          "value": "{groningen.heading.font-family}",
           "type": "fontFamilies"
         },
         "font-weight": {
-          "value": "{utrecht.heading.font-weight}",
+          "value": "{groningen.heading.font-weight}",
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "{draad.typography.line-height.sm}",
+          "value": "{groningen.typography.line-height.120}",
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{draad.typography.font-size.xl}",
+          "value": "{groningen.typography.font-size.l}",
           "type": "fontSizes"
         }
       },
       "column-gap": {
-        "value": "{draad.space.column.snail}",
+        "value": "{groningen.space.column.8px}",
         "type": "spacing"
       },
       "border-width": {
-        "value": "{draad.border-width.md}",
+        "value": "{groningen.border-width.2px}",
         "type": "borderWidth"
       },
       "padding-block-end": {
-        "value": "{draad.space.block.snail}",
+        "value": "{groningen.space.block.12px}",
         "type": "spacing"
       },
       "padding-block-start": {
-        "value": "{draad.space.block.snail}",
+        "value": "{groningen.space.block.12px}",
         "type": "spacing"
       },
       "padding-inline-end": {
-        "value": "{draad.space.inline.mouse}",
+        "value": "{groningen.space.inline.16px}",
         "type": "spacing"
       },
       "padding-inline-start": {
-        "value": "{draad.space.inline.mouse}",
+        "value": "{groningen.space.inline.16px}",
         "type": "spacing"
       },
       "informative": {
         "background-color": {
-          "value": "{utrecht.feedback.informative.background-color}",
+          "value": "{groningen.feedback.informative.background-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{utrecht.feedback.informative.border-color}",
+          "value": "transparant",
           "type": "color"
         },
         "color": {
-          "value": "{utrecht.document.color}",
+          "value": "{groningen.color.state.information.text}",
           "type": "color"
         }
       },
       "icon": {
         "informative": {
           "color": {
-            "value": "{utrecht.feedback.informative.color}",
+            "value": "{groningen.color.state.information.text}",
             "type": "color"
           }
         },
         "padding-block-end": {
-          "value": "{draad.space.block.snail}",
+          "value": "{groningen.space.block.12px}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.snail}",
+          "value": "{groningen.space.block.12px}",
           "type": "spacing"
         },
         "padding-inline-end": {
@@ -82,86 +82,86 @@
         },
         "positive": {
           "color": {
-            "value": "{utrecht.feedback.positive.color}",
+            "value": "{groningen.feedback.positive.color}",
             "type": "color"
           }
         },
         "negative": {
           "color": {
-            "value": "{utrecht.feedback.negative.color}",
+            "value": "{groningen.feedback.negative.color}",
             "type": "color"
           }
         },
         "warning": {
           "color": {
-            "value": "{utrecht.feedback.warning.color}",
+            "value": "{groningen.feedback.warning.color}",
             "type": "color"
           }
         },
         "size": {
-          "type": "sizing",
-          "value": "{utrecht.icon.functional.size}"
+          "value": "{groningen.icon.functional.size}",
+          "type": "sizing"
         }
       },
       "negative": {
         "background-color": {
-          "value": "{utrecht.feedback.negative.background-color}",
+          "value": "{groningen.feedback.negative.background-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{utrecht.feedback.negative.border-color}",
+          "value": "transparant",
           "type": "color"
         },
         "color": {
-          "value": "{utrecht.document.color}",
+          "value": "{groningen.color.state.error.text}",
           "type": "color"
         }
       },
       "positive": {
         "background-color": {
-          "value": "{utrecht.feedback.positive.background-color}",
+          "value": "{groningen.feedback.positive.background-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{utrecht.feedback.positive.border-color}",
+          "value": "transparant",
           "type": "color"
         },
         "color": {
-          "value": "{utrecht.document.color}",
+          "value": "{groningen.color.state.success.text}",
           "type": "color"
         }
       },
       "warning": {
         "background-color": {
-          "value": "{utrecht.feedback.warning.background-color}",
+          "value": "{groningen.feedback.warning.background-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{utrecht.feedback.warning.border-color}",
+          "value": "transparant",
           "type": "color"
         },
         "color": {
-          "value": "{utrecht.document.color}",
+          "value": "{groningen.color.state.warning.text}",
           "type": "color"
         }
       },
       "message": {
         "row-gap": {
-          "value": "{draad.space.row.snail}",
+          "value": "{groningen.space.row.8px}",
           "type": "spacing"
         },
         "padding-block-end": {
-          "value": "{draad.space.block.snail}",
+          "value": "{groningen.space.block.12px}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.beetle}",
+          "value": "{groningen.space.block.8px}",
           "type": "spacing"
         }
       },
       "content": {
         "row-gap": {
-          "value": "{draad.space.row.snail}",
+          "value": "{groningen.space.row.8px}",
           "type": "spacing"
         }
       }

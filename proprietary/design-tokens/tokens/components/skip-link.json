@@ -2,57 +2,57 @@
   "utrecht": {
     "skip-link": {
       "font-weight": {
-        "value": "{utrecht.document.strong.font-weight}",
+        "value": "{groningen.document.strong.font-weight}",
         "type": "fontWeights"
       },
       "font-family": {
-        "value": "{utrecht.document.font-family}",
+        "value": "{groningen.document.font-family}",
         "type": "fontFamilies"
       },
       "font-size": {
-        "value": "{utrecht.document.font-size}",
+        "value": "{groningen.document.font-size}",
         "type": "fontSizes"
       },
       "line-height": {
-        "value": "{utrecht.document.line-height}",
+        "value": "{groningen.document.line-height}",
         "type": "lineHeights"
       },
       "min-block-size": {
-        "type": "sizing",
-        "value": "{utrecht.pointer-target.min-size}"
+        "value": "{groningen.pointer-target.min-size}",
+        "type": "sizing"
       },
       "min-inline-size": {
-        "type": "sizing",
-        "value": "{utrecht.pointer-target.min-size}"
+        "value": "{groningen.pointer-target.min-size}",
+        "type": "sizing"
       },
       "padding-block-end": {
-        "value": "{draad.space.block.snail}",
+        "value": "{groningen.space.block.12px}",
         "type": "spacing"
       },
       "padding-block-start": {
-        "value": "{draad.space.block.snail}",
+        "value": "{groningen.space.block.12px}",
         "type": "spacing"
       },
       "padding-inline-end": {
-        "value": "{draad.space.inline.mouse}",
+        "value": "{groningen.space.inline.16px}",
         "type": "spacing"
       },
       "padding-inline-start": {
-        "value": "{draad.space.inline.mouse}",
+        "value": "{groningen.space.inline.16px}",
         "type": "spacing"
       },
       "focus": {
         "background-color": {
-          "type": "color",
-          "value": "{utrecht.focus.background-color}"
+          "value": "{groningen.focus.background-color}",
+          "type": "color"
         },
         "border-color": {
           "value": "transparent",
           "type": "color"
         },
         "color": {
-          "type": "color",
-          "value": "{utrecht.focus.color}"
+          "value": "{groningen.focus.color}",
+          "type": "color"
         },
         "text-decoration": {
           "value": "none",
@@ -60,23 +60,23 @@
         }
       },
       "background-color": {
-        "type": "color",
-        "value": "{utrecht.document.inverse.background-color}"
+        "value": "{groningen.document.inverse.background-color}",
+        "type": "color"
       },
       "border-color": {
         "value": "transparent",
         "type": "color"
       },
       "color": {
-        "type": "color",
-        "value": "{utrecht.document.inverse.color}"
+        "value": "{groningen.document.inverse.color}",
+        "type": "color"
       },
       "border-width": {
-        "type": "borderWidth",
-        "value": "{draad.border-width.sm}"
+        "value": "{groningen.border-width.1px}",
+        "type": "borderWidth"
       },
       "box-block-end-shadow": {
-        "value": "{draad.box-shadow.lg}",
+        "value": "{groningen.box-shadow.lg}",
         "type": "boxShadow"
       },
       "text-decoration": {

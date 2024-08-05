@@ -2,133 +2,133 @@
   "utrecht": {
     "heading-1": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.bright}"
+        "value": "{groningen.color.black}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{groningen.typography.font-family.primary}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{groningen.typography.font-weight.bold}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.sm}",
+        "value": "{groningen.typography.line-height.120}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.3xl}",
+        "value": "{groningen.typography.font-size.xxl}",
         "type": "fontSizes"
       }
     },
     "heading-2": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{groningen.color.black}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{groningen.typography.font-family.primary}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{groningen.typography.font-weight.bold}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.sm}",
+        "value": "{groningen.typography.line-height.120}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.2xl}",
+        "value": "{groningen.typography.font-size.xl}",
         "type": "fontSizes"
       }
     },
     "heading-3": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{groningen.color.black}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{groningen.typography.font-family.primary}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{groningen.typography.font-weight.bold}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.sm}",
+        "value": "{groningen.typography.line-height.120}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.xl}",
+        "value": "{groningen.typography.font-size.l}",
         "type": "fontSizes"
       }
     },
     "heading-4": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{groningen.color.black}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{groningen.typography.font-family.primary}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{groningen.typography.font-weight.bold}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.md}",
+        "value": "{groningen.typography.line-height.150}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.lg}",
+        "value": "{groningen.typography.font-size.m}",
         "type": "fontSizes"
       }
     },
     "heading-5": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{groningen.color.black}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{groningen.typography.font-family.primary}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{groningen.typography.font-weight.condensed}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.md}",
+        "value": "{groningen.typography.line-height.150}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.md}",
+        "value": "{groningen.typography.font-size.m}",
         "type": "fontSizes"
       }
     },
     "heading-6": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{groningen.color.black}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{groningen.typography.font-family.primary}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{groningen.typography.font-weight.normal}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.md}",
+        "value": "{groningen.typography.line-height.130}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.sm}",
+        "value": "{groningen.typography.font-size.xs}",
         "type": "fontSizes"
       }
     }

@@ -2,15 +2,15 @@
   "todo": {
     "backdrop": {
       "background-color": {
-        "value": "{draad.color.black}",
+        "value": "{groningen.color.black}",
         "type": "color"
       },
       "color": {
-        "value": "{draad.color.white}",
+        "value": "{groningen.color.white}",
         "type": "color"
       },
       "opacity": {
-        "value": "0.2",
+        "value": "0.1",
         "type": "opacity"
       },
       "reduced-transparency": {

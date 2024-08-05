@@ -37,10 +37,10 @@
     "components/skip-link",
     "components/status-badge",
     "components/table",
-    "components/task-list",
     "components/textarea",
     "components/text-input",
     "components/toolbar-button",
-    "components/unordered-list"
+    "components/unordered-list",
+    "switch"
   ]
 }

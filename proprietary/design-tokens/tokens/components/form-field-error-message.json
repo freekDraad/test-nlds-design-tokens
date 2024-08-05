@@ -3,37 +3,29 @@
     "form-field-error-message": {
       "icon": {
         "size": {
-          "type": "sizing",
-          "value": "{utrecht.icon.functional.size}"
+          "value": "{groningen.icon.functional.size}",
+          "type": "sizing"
         },
         "margin-inline-end": {
-          "value": "{draad.space.text.mouse}",
+          "value": "{groningen.space.text.8px}",
           "type": "spacing"
         }
-      }
-    }
-  },
-  "utrecht": {
-    "form-field-error-message": {
+      },
       "color": {
-        "type": "color",
-        "value": "{utrecht.feedback.negative.color}"
+        "value": "{groningen.color.accent}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.document.font-family}",
+        "value": "{groningen.document.font-family}",
         "type": "fontFamilies"
       },
       "font-size": {
-        "value": "{utrecht.document.font-size}",
+        "value": "{groningen.document.font-size}",
         "type": "fontSizes"
       },
       "font-weight": {
-        "value": "{utrecht.document.font-weight}",
+        "value": "{groningen.document.font-weight}",
         "type": "fontWeights"
-      },
-      "line-height": {
-        "value": "{utrecht.document.line-height}",
-        "type": "lineHeights"
       }
     }
   }
