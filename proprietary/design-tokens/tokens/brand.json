@@ -435,15 +435,15 @@
     },
     "border-radius": {
       "sm": {
-        "value": "4px",
+        "value": "0",
         "type": "borderRadius"
       },
       "md": {
-        "value": "8px",
+        "value": "0",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "8px",
+        "value": "0",
         "type": "borderRadius"
       },
       "round": {

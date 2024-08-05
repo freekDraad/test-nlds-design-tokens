@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 13 May 2024 14:48:58 GMT
+ * Generated on Mon, 05 Aug 2024 11:54:48 GMT
  */
 
 :root {
@@ -52,7 +52,7 @@
   --utrecht-alert-padding-inline-start: 16px;
   --utrecht-alert-informative-background-color: #0076AF;
   --utrecht-alert-informative-border-color: #0076AF;
-  --utrecht-alert-informative-color: hsl(0, 0%, 0%);
+  --utrecht-alert-informative-color: #254D64;
   --utrecht-alert-icon-informative-color: #0076AF;
   --utrecht-alert-icon-padding-block-end: 12px;
   --utrecht-alert-icon-padding-block-start: 12px;
@@ -64,13 +64,13 @@
   --utrecht-alert-icon-size: 24px;
   --utrecht-alert-negative-background-color: #D6081F;
   --utrecht-alert-negative-border-color: #D6081F;
-  --utrecht-alert-negative-color: hsl(0, 0%, 0%);
+  --utrecht-alert-negative-color: #254D64;
   --utrecht-alert-positive-background-color: #AAB500;
   --utrecht-alert-positive-border-color: #AAB500;
-  --utrecht-alert-positive-color: hsl(0, 0%, 0%);
+  --utrecht-alert-positive-color: #254D64;
   --utrecht-alert-warning-background-color: #EF7D00;
   --utrecht-alert-warning-border-color: #EF7D00;
-  --utrecht-alert-warning-color: hsl(0, 0%, 0%);
+  --utrecht-alert-warning-color: #254D64;
   --utrecht-alert-message-row-gap: 8px;
   --utrecht-alert-message-padding-block-end: 12px;
   --utrecht-alert-message-padding-block-start: 8px;
@@ -85,7 +85,7 @@
   --utrecht-blockquote-content-line-height: 125%;
   --utrecht-blockquote-content-font-weight: Regular;
   --utrecht-blockquote-content-font-size: 24px;
-  --utrecht-blockquote-content-color: hsl(0, 0%, 0%);
+  --utrecht-blockquote-content-color: #254D64;
   --utrecht-blockquote-padding-block-end: 12px;
   --utrecht-blockquote-padding-block-start: 12px;
   --utrecht-blockquote-padding-inline-end: 0px;
@@ -133,7 +133,7 @@
   --utrecht-button-background-color: transparent;
   --utrecht-button-border-color: hsl(0, 0%, 0%);
   --utrecht-button-color: hsl(0, 0%, 0%);
-  --utrecht-button-border-radius: 8px;
+  --utrecht-button-border-radius: 0;
   --utrecht-button-border-width: 1px;
   --utrecht-button-icon-size: 24px;
   --utrecht-button-icon-margin-inline: 4px;
@@ -170,6 +170,7 @@
   --utrecht-button-hover-background-color: hsl(0, 0%, 90%);
   --utrecht-button-hover-border-color: #254D64;
   --utrecht-button-hover-color: #254D64;
+  --utrecht-button-hover-scale: 1;
   --utrecht-button-active-background-color: hsl(0, 0%, 90%);
   --utrecht-button-active-border-color: #0076AF;
   --utrecht-button-active-color: #0076AF;
@@ -243,7 +244,7 @@
   --utrecht-counter-badge-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --utrecht-counter-badge-background-color: #96034C;
   --utrecht-counter-badge-border-color: transparent;
-  --utrecht-counter-badge-color: hsl(0, 0%, 0%);
+  --utrecht-counter-badge-color: #254D64;
   --utrecht-counter-badge-padding-inline: 4px;
   --utrecht-counter-badge-padding-block: 4px;
   --utrecht-drawer-header-label-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
@@ -263,32 +264,32 @@
   --utrecht-form-field-invalid-border-inline-start-color: #D6081F;
   --utrecht-form-field-invalid-border-inline-start-width: 2px;
   --utrecht-form-field-invalid-padding-inline-start: 16px;
-  --utrecht-heading-1-color: #000000;
+  --utrecht-heading-1-color: #333;
   --utrecht-heading-1-font-family: Source Serif Pro, Tahoma, Verdana, sans-serif;
   --utrecht-heading-1-font-weight: Bold;
   --utrecht-heading-1-line-height: 125%;
   --utrecht-heading-1-font-size: 40px;
-  --utrecht-heading-2-color: hsl(0, 0%, 0%);
+  --utrecht-heading-2-color: #333;
   --utrecht-heading-2-font-family: Source Serif Pro, Tahoma, Verdana, sans-serif;
   --utrecht-heading-2-font-weight: Bold;
   --utrecht-heading-2-line-height: 125%;
   --utrecht-heading-2-font-size: 32px;
-  --utrecht-heading-3-color: hsl(0, 0%, 0%);
+  --utrecht-heading-3-color: #333;
   --utrecht-heading-3-font-family: Source Serif Pro, Tahoma, Verdana, sans-serif;
   --utrecht-heading-3-font-weight: Bold;
   --utrecht-heading-3-line-height: 125%;
   --utrecht-heading-3-font-size: 24px;
-  --utrecht-heading-4-color: hsl(0, 0%, 0%);
+  --utrecht-heading-4-color: #333;
   --utrecht-heading-4-font-family: Source Serif Pro, Tahoma, Verdana, sans-serif;
   --utrecht-heading-4-font-weight: Bold;
   --utrecht-heading-4-line-height: 150%;
   --utrecht-heading-4-font-size: 20px;
-  --utrecht-heading-5-color: hsl(0, 0%, 0%);
+  --utrecht-heading-5-color: #333;
   --utrecht-heading-5-font-family: Source Serif Pro, Tahoma, Verdana, sans-serif;
   --utrecht-heading-5-font-weight: Bold;
   --utrecht-heading-5-line-height: 150%;
   --utrecht-heading-5-font-size: 16px;
-  --utrecht-heading-6-color: hsl(0, 0%, 0%);
+  --utrecht-heading-6-color: #333;
   --utrecht-heading-6-font-family: Source Serif Pro, Tahoma, Verdana, sans-serif;
   --utrecht-heading-6-font-weight: Bold;
   --utrecht-heading-6-line-height: 150%;
@@ -322,17 +323,17 @@
   --utrecht-ordered-list-line-height: 150%;
   --utrecht-ordered-list-item-margin-block-end: 4px;
   --utrecht-ordered-list-item-margin-block-start: 4px;
-  --utrecht-paragraph-color: hsl(0, 0%, 0%);
+  --utrecht-paragraph-color: #254D64;
   --utrecht-paragraph-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --utrecht-paragraph-font-size: 16px;
   --utrecht-paragraph-font-weight: Regular;
   --utrecht-paragraph-line-height: 150%;
-  --utrecht-paragraph-lead-color: hsl(0, 0%, 0%);
+  --utrecht-paragraph-lead-color: #254D64;
   --utrecht-paragraph-lead-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --utrecht-paragraph-lead-font-size: 20px;
   --utrecht-paragraph-lead-font-weight: Regular;
   --utrecht-paragraph-lead-line-height: 150%;
-  --utrecht-paragraph-small-print-color: hsl(0, 0%, 0%);
+  --utrecht-paragraph-small-print-color: #254D64;
   --utrecht-paragraph-small-print-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --utrecht-paragraph-small-print-font-size: 14px;
   --utrecht-paragraph-small-print-font-weight: Regular;
@@ -436,7 +437,7 @@
   --utrecht-status-badge-font-weight: Bold;
   --utrecht-status-badge-border-width: 1px;
   --utrecht-status-badge-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
-  --utrecht-status-badge-border-radius: 4px;
+  --utrecht-status-badge-border-radius: 0;
   --utrecht-status-badge-padding-inline: 4px;
   --utrecht-status-badge-padding-block: 2px;
   --utrecht-status-badge-informative-background-color: #0076AF;
@@ -453,15 +454,15 @@
   --utrecht-status-badge-warning-color: #EF7D00;
   --utrecht-status-badge-background-color: #96034C;
   --utrecht-status-badge-border-color: transparent;
-  --utrecht-status-badge-color: hsl(0, 0%, 0%);
+  --utrecht-status-badge-color: #254D64;
   --utrecht-table-header-cell-line-height: 150%;
-  --utrecht-table-header-cell-color: hsl(0, 0%, 0%);
+  --utrecht-table-header-cell-color: #254D64;
   --utrecht-table-header-cell-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --utrecht-table-header-cell-font-weight: Bold;
   --utrecht-table-header-cell-font-size: 16px;
   --utrecht-table-caption-line-height: 125%;
   --utrecht-table-caption-margin-block-end: 24px;
-  --utrecht-table-caption-color: hsl(0, 0%, 0%);
+  --utrecht-table-caption-color: #333;
   --utrecht-table-caption-font-family: Source Serif Pro, Tahoma, Verdana, sans-serif;
   --utrecht-table-caption-font-weight: Bold;
   --utrecht-table-caption-font-size: 24px;
@@ -469,7 +470,7 @@
   --utrecht-table-cell-padding-block-start: 12px;
   --utrecht-table-cell-padding-inline-end: 16px;
   --utrecht-table-cell-padding-inline-start: 16px;
-  --utrecht-table-data-cell-color: hsl(0, 0%, 0%);
+  --utrecht-table-data-cell-color: #254D64;
   --utrecht-table-data-cell-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --utrecht-table-data-cell-font-weight: Regular;
   --utrecht-table-data-cell-line-height: 150%;
@@ -485,7 +486,7 @@
   --utrecht-table-row-background-color: transparent;
   --utrecht-table-footer-cell-font-weight: Bold;
   --utrecht-table-footer-cell-font-size: 16px;
-  --utrecht-table-footer-cell-color: hsl(0, 0%, 0%);
+  --utrecht-table-footer-cell-color: #254D64;
   --utrecht-table-footer-cell-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --utrecht-table-footer-cell-line-height: 150%;
   --utrecht-table-container-box-inline-end-shadow: [object Object];
@@ -558,7 +559,7 @@
   --utrecht-textarea-font-weight: Regular;
   --utrecht-textarea-line-height: 150%;
   --utrecht-textarea-font-size: 16px;
-  --utrecht-unordered-list-color: hsl(0, 0%, 0%);
+  --utrecht-unordered-list-color: #254D64;
   --utrecht-unordered-list-marker-border-color: #0076AF;
   --utrecht-unordered-list-marker-color: #0076AF;
   --utrecht-unordered-list-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
@@ -570,7 +571,7 @@
   --utrecht-unordered-list-item-margin-block-start: 4px;
   --utrecht-root-background-color: hsl(0, 0%, 90%);
   --utrecht-document-background-color: #ffffff;
-  --utrecht-document-color: hsl(0, 0%, 0%);
+  --utrecht-document-color: #254D64;
   --utrecht-document-inverse-background-color: hsl(0, 0%, 5%);
   --utrecht-document-inverse-color: #ffffff;
   --utrecht-document-subtle-color: hsl(0, 0%, 15%);
@@ -579,10 +580,10 @@
   --utrecht-document-font-weight: Regular;
   --utrecht-document-strong-font-weight: Bold;
   --utrecht-document-line-height: 150%;
-  --utrecht-heading-color: hsl(0, 0%, 0%);
+  --utrecht-heading-color: #333;
   --utrecht-heading-font-family: Source Serif Pro, Tahoma, Verdana, sans-serif;
   --utrecht-heading-font-weight: Bold;
-  --utrecht-heading-bright: #000000;
+  --utrecht-heading-bright: #333;
   --utrecht-container-border-color: hsl(0, 0%, 90%);
   --utrecht-container-border-width: 1px;
   --utrecht-line-border-color: hsl(0, 0%, 90%);
@@ -724,7 +725,7 @@
   --todo-data-list-item-key-padding-inline-start: 0px;
   --todo-data-list-item-border-width: 1px;
   --todo-data-list-item-border-color: hsl(0, 0%, 90%);
-  --todo-data-list-item-color: hsl(0, 0%, 0%);
+  --todo-data-list-item-color: #254D64;
   --todo-data-list-font-size: 16px;
   --todo-data-list-line-height: 150%;
   --todo-data-list-item-action-row-padding-block-end: 12px;
@@ -736,7 +737,7 @@
   --todo-data-list-item-action-padding-inline-end: 16px;
   --todo-data-list-item-action-padding-inline-start: 0px;
   --todo-drawer-header-border-width: 1px;
-  --todo-drawer-header-label-color: hsl(0, 0%, 0%);
+  --todo-drawer-header-label-color: #254D64;
   --todo-drawer-header-padding-block-end: 8px;
   --todo-drawer-header-padding-block-start: 8px;
   --todo-drawer-header-padding-inline-start: 16px;
@@ -758,12 +759,12 @@
   --todo-drawer-content-padding-inline: 16px;
   --todo-drawer-background-color: #ffffff;
   --todo-drawer-border-color: hsl(0, 0%, 90%);
-  --todo-drawer-color: hsl(0, 0%, 0%);
+  --todo-drawer-color: #254D64;
   --todo-drawer-box-shadow: [object Object];
   --todo-form-field-checkbox-option-column-gap: 8px;
   --todo-form-field-error-message-icon-size: 24px;
   --todo-form-field-error-message-icon-margin-inline-end: 8px;
-  --todo-form-field-label-color: hsl(0, 0%, 0%);
+  --todo-form-field-label-color: #254D64;
   --todo-form-field-label-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --todo-form-field-label-font-size: 16px;
   --todo-form-field-label-font-weight: Bold;
@@ -779,14 +780,14 @@
   --todo-icon-only-button-padding-block-start: 12px;
   --todo-icon-only-button-padding-inline-end: 12px;
   --todo-icon-only-button-padding-inline-start: 12px;
-  --todo-modal-dialog-border-radius: 8px;
+  --todo-modal-dialog-border-radius: 0;
   --todo-modal-dialog-box-shadow: [object Object];
   --todo-modal-dialog-header-padding-block-start: 8px;
   --todo-modal-dialog-header-padding-inline-start: 16px;
   --todo-modal-dialog-header-padding-inline-end: 8px;
   --todo-modal-dialog-header-padding-block-end: 8px;
   --todo-modal-dialog-header-background-color: transparent;
-  --todo-modal-dialog-header-label-color: hsl(0, 0%, 0%);
+  --todo-modal-dialog-header-label-color: #254D64;
   --todo-modal-dialog-header-label-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --todo-modal-dialog-header-label-font-weight: Bold;
   --todo-modal-dialog-header-label-font-size: 16px;
@@ -796,7 +797,7 @@
   --todo-modal-dialog-header-border-width: 1px;
   --todo-modal-dialog-border-color: transparent;
   --todo-modal-dialog-background-color: #ffffff;
-  --todo-modal-dialog-color: hsl(0, 0%, 0%);
+  --todo-modal-dialog-color: #254D64;
   --todo-modal-dialog-footer-padding-block-start: 16px;
   --todo-modal-dialog-footer-padding-inline-start: 16px;
   --todo-modal-dialog-footer-padding-inline-end: 16px;
@@ -843,7 +844,7 @@
   --todo-pagination-page-link-current-text-decoration: none;
   --todo-pagination-page-link-current-background-color: hsl(0, 0%, 90%);
   --todo-pagination-page-link-current-border-color: transparent;
-  --todo-pagination-page-link-current-color: hsl(0, 0%, 0%);
+  --todo-pagination-page-link-current-color: #254D64;
   --todo-pagination-page-link-border-radius: 0px;
   --todo-pagination-page-link-padding-block-end: 12px;
   --todo-pagination-page-link-padding-block-start: 12px;
@@ -875,12 +876,12 @@
   --todo-pagination-ellipses-padding-inline-start: 4px;
   --todo-pagination-ellipses-color: hsl(0, 0%, 15%);
   --todo-pagination-ellipses-font-weight: Regular;
-  --todo-pagination-description-color: hsl(0, 0%, 0%);
+  --todo-pagination-description-color: #254D64;
   --todo-pagination-description-font-weight: Regular;
   --todo-radio-group-padding-block-end: 8px;
   --todo-radio-group-padding-block-start: 8px;
   --todo-radio-group-row-gap: 16px;
-  --todo-task-list-color: hsl(0, 0%, 0%);
+  --todo-task-list-color: #254D64;
   --todo-task-list-marker-checked-color: #ffffff;
   --todo-task-list-marker-checked-background-color: #AAB500;
   --todo-task-list-marker-checked-border-color: transparent;
@@ -910,7 +911,7 @@
   --denhaag-sidenav-link-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --denhaag-sidenav-link-font-weight: Regular;
   --denhaag-sidenav-link-current-font-weight: Bold;
-  --denhaag-sidenav-link-current-color: hsl(0, 0%, 0%);
+  --denhaag-sidenav-link-current-color: #254D64;
   --denhaag-sidenav-link-color: #0076AF;
   --denhaag-sidenav-link-active-color: #0076AF;
   --denhaag-sidenav-link-active-text-decoration: underline;
@@ -1017,9 +1018,9 @@
   --draad-space-row-horse: 64px;
   --draad-space-row-elephant: 96px;
   --draad-space-row-giraffe: 160px;
-  --draad-border-radius-sm: 4px;
-  --draad-border-radius-md: 8px;
-  --draad-border-radius-lg: 8px;
+  --draad-border-radius-sm: 0;
+  --draad-border-radius-md: 0;
+  --draad-border-radius-lg: 0;
   --draad-border-radius-round: 999px;
   --draad-border-width-sm: 1px;
   --draad-border-width-md: 2px;
