@@ -125,7 +125,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.gray.500}"
+            "value": "{draad.color.gray.200}"
           }
         }
       },

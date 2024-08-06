@@ -23,7 +23,7 @@
       },
       "disabled": {
         "color": {
-          "value": "{draad.color.gray.600}",
+          "value": "{draad.color.gray.200}",
           "type": "color"
         }
       }
