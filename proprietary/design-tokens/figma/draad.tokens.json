@@ -62,11 +62,11 @@
         },
         "font-family": {
           "primary": {
-            "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+            "value": "'Verdana Pro', Verdana, Geneva, sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+            "value": "'Verdana Pro', Verdana, Geneva, sans-serif",
             "type": "fontFamilies"
           }
         }
@@ -436,15 +436,15 @@
       },
       "border-radius": {
         "sm": {
-          "value": "4px",
+          "value": "0",
           "type": "borderRadius"
         },
         "md": {
-          "value": "8px",
+          "value": "0",
           "type": "borderRadius"
         },
         "lg": {
-          "value": "8px",
+          "value": "0",
           "type": "borderRadius"
         },
         "round": {
@@ -589,7 +589,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.gray.900}",
+          "value": "#254D64",
           "type": "color"
         },
         "inverse": {
@@ -633,7 +633,7 @@
       },
       "heading": {
         "color": {
-          "value": "{draad.color.gray.900}",
+          "value": "#333",
           "type": "color"
         },
         "font-family": {
@@ -645,7 +645,7 @@
           "type": "fontWeights"
         },
         "bright": {
-          "value": "{draad.color.black}",
+          "value": "#333",
           "type": "color"
         }
       },
@@ -1928,6 +1928,10 @@
           "color": {
             "value": "{utrecht.interaction.hover.color}",
             "type": "color"
+          },
+          "scale": {
+            "value": "1",
+            "type": "other"
           }
         },
         "active": {
