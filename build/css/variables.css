@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Aug 2024 08:12:00 GMT
+ * Generated on Wed, 07 Aug 2024 09:57:28 GMT
  */
 
 :root {
@@ -22,21 +22,21 @@
   --utrecht-accordion-button-padding-block-start: 12px;
   --utrecht-accordion-button-padding-inline-end: 16px;
   --utrecht-accordion-button-padding-inline-start: 16px;
-  --utrecht-accordion-button-hover-background-color: hsl(0, 0%, 98%);
+  --utrecht-accordion-button-hover-background-color: #5BA5DD;
   --utrecht-accordion-button-hover-border-color: transparent;
-  --utrecht-accordion-button-hover-color: #FA6C3F;
+  --utrecht-accordion-button-hover-color: #fff;
   --utrecht-accordion-button-expanded-background-color: hsl(0, 0%, 98%);
   --utrecht-accordion-button-expanded-border-color: transparent;
   --utrecht-accordion-button-expanded-color: #FA6C3F;
-  --utrecht-accordion-button-background-color: #eeeeee;
+  --utrecht-accordion-button-background-color: #5BA5DD;
   --utrecht-accordion-button-border-color: transparent;
-  --utrecht-accordion-button-color: #666666;
-  --utrecht-accordion-button-focus-background-color: #eeeeee;
+  --utrecht-accordion-button-color: #fff;
+  --utrecht-accordion-button-focus-background-color: #5BA5DD;
   --utrecht-accordion-button-focus-border-color: transparent;
-  --utrecht-accordion-button-focus-color: #666666;
-  --utrecht-accordion-button-active-background-color: hsl(0, 0%, 93%);
+  --utrecht-accordion-button-focus-color: #fff;
+  --utrecht-accordion-button-active-background-color: #5BA5DD;
   --utrecht-accordion-button-active-border-color: transparent;
-  --utrecht-accordion-button-active-color: #666;
+  --utrecht-accordion-button-active-color: #fff;
   --utrecht-accordion-button-border-width: 1px;
   --utrecht-accordion-button-font-family: Fira Sans, Tahoma, Verdana, sans-serif;
   --utrecht-accordion-button-font-weight: Bold;
@@ -294,18 +294,18 @@
   --utrecht-heading-6-line-height: 150%;
   --utrecht-heading-6-font-size: 14px;
   --utrecht-link-line-height: 150%;
-  --utrecht-link-color: #FA6C3F;
-  --utrecht-link-text-decoration-color: #FA6C3F;
-  --utrecht-link-active-color: #FA6C3F;
+  --utrecht-link-color: #5BA5DD;
+  --utrecht-link-text-decoration-color: #5BA5DD;
+  --utrecht-link-active-color: #5BA5DD;
   --utrecht-link-active-text-decoration: none;
   --utrecht-link-focus-background-color: transparent;
   --utrecht-link-focus-color: #000000;
   --utrecht-link-focus-text-decoration: none;
   --utrecht-link-focus-text-decoration-thickness: auto;
-  --utrecht-link-hover-color: #FA6C3F;
+  --utrecht-link-hover-color: #046BD2;
   --utrecht-link-hover-text-decoration: none;
   --utrecht-link-hover-text-decoration-thickness: auto;
-  --utrecht-link-visited-color: #FA6C3F;
+  --utrecht-link-visited-color: #5BA5DD;
   --utrecht-link-text-decoration: underline;
   --utrecht-link-icon-size: 24px;
   --utrecht-link-icon-margin-inline: 4px;

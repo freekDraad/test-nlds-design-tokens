@@ -7,16 +7,16 @@
       },
       "color": {
         "type": "color",
-        "value": "{utrecht.interaction.color}"
+        "value": "{draad.color.blue.100}"
       },
       "text-decoration-color": {
         "type": "color",
-        "value": "{utrecht.interaction.color}"
+        "value": "{draad.color.blue.100}"
       },
       "active": {
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.active.color}"
+          "value": "{draad.color.blue.100}"
         },
         "text-decoration": {
           "value": "none",
@@ -44,7 +44,7 @@
       "hover": {
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.hover.color}"
+          "value": "{draad.color.blue.200}"
         },
         "text-decoration": {
           "value": "none",
@@ -58,7 +58,7 @@
       "visited": {
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "{draad.color.blue.100}"
         }
       },
       "text-decoration": {
