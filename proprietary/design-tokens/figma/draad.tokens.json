@@ -62,11 +62,11 @@
         },
         "font-family": {
           "primary": {
-            "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+            "value": "\"urw-din\",sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+            "value": "\"urw-din\",sans-serif",
             "type": "fontFamilies"
           }
         }
@@ -142,6 +142,14 @@
           "200": {
             "value": "#CB8D44",
             "type": "color"
+          },
+          "300": {
+            "value": "#F0BE5B",
+            "type": "color"
+          },
+          "400": {
+            "value": "#FBF1DA",
+            "type": "color"
           }
         },
         "green": {
@@ -151,6 +159,10 @@
           },
           "200": {
             "value": "#2F7E2F",
+            "type": "color"
+          },
+          "300": {
+            "value": "#257F3A",
             "type": "color"
           }
         },
@@ -649,7 +661,7 @@
           "type": "fontWeights"
         },
         "bright": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.yellow.300}",
           "type": "color"
         }
       },
@@ -675,29 +687,29 @@
       },
       "interaction": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.yellow.300}",
           "type": "color"
         },
         "active": {
           "color": {
-            "value": "{draad.color.red.100}",
+            "value": "{draad.color.yellow.300}",
             "type": "color"
           }
         },
         "hover": {
           "color": {
-            "value": "{draad.color.red.100}",
+            "value": "{draad.color.yellow.200}",
             "type": "color"
           }
         }
       },
       "focus": {
         "background-color": {
-          "value": "{draad.color.blue.100}",
+          "value": "{draad.color.green.300}",
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.black}",
+          "value": "{draad.color.white}",
           "type": "color"
         },
         "outline-color": {
@@ -1620,7 +1632,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{draad.color.white}"
+              "value": "{draad.color.black}"
             }
           },
           "background-color": {
@@ -1633,7 +1645,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.white}"
+            "value": "{draad.color.black}"
           },
           "disabled": {
             "background-color": {
@@ -1652,7 +1664,7 @@
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.focus.background-color}"
+              "value": "{draad.color.yellow.200}"
             },
             "border-color": {
               "value": "transparent",
@@ -1660,7 +1672,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.focus.color}"
+              "value": "{draad.color.black}"
             }
           },
           "font-weight": {
@@ -1678,7 +1690,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{draad.color.white}"
+              "value": "{draad.color.black}"
             }
           }
         },
@@ -1908,7 +1920,7 @@
         },
         "focus": {
           "background-color": {
-            "value": "{utrecht.focus.background-color}",
+            "value": "{draad.color.yellow.200}",
             "type": "color"
           },
           "border-color": {
@@ -1916,7 +1928,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.focus.color}",
+            "value": "{draad.color.black}",
             "type": "color"
           }
         },
@@ -2975,11 +2987,11 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{utrecht.focus.background-color}"
+            "value": "{draad.color.yellow.200}"
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.focus.color}"
+            "value": "{draad.color.black}"
           },
           "text-decoration": {
             "value": "none",
