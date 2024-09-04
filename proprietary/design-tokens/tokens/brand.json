@@ -141,6 +141,14 @@
         "200": {
           "value": "#CB8D44",
           "type": "color"
+        },
+        "300": {
+          "value": "#F0BE5B",
+          "type": "color"
+        },
+        "400": {
+          "value": "#FBF1DA",
+          "type": "color"
         }
       },
       "green": {
@@ -150,6 +158,10 @@
         },
         "200": {
           "value": "#2F7E2F",
+          "type": "color"
+        },
+        "300": {
+          "value": "#257F3A",
           "type": "color"
         }
       },
