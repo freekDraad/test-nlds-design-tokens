@@ -82,7 +82,7 @@
         },
         "gray": {
           "100": {
-            "value": "hsl(0, 0%, 90%)",
+            "value": "#F3F3F3",
             "type": "color"
           },
           "200": {
@@ -130,17 +130,13 @@
         },
         "red": {
           "100": {
-            "value": "#E30613",
+            "value": "#FF0000",
             "type": "color"
           }
         },
         "yellow": {
           "100": {
-            "value": "#F1C053",
-            "type": "color"
-          },
-          "200": {
-            "value": "#CB8D44",
+            "value": "#FFE115",
             "type": "color"
           }
         },
@@ -156,11 +152,7 @@
         },
         "blue": {
           "100": {
-            "value": "#8E9ED1",
-            "type": "color"
-          },
-          "200": {
-            "value": "#27358B",
+            "value": "#486DB7",
             "type": "color"
           }
         },
@@ -637,7 +629,7 @@
       },
       "heading": {
         "color": {
-          "value": "{draad.color.gray.900}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "font-family": {
@@ -649,7 +641,7 @@
           "type": "fontWeights"
         },
         "bright": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         }
       },
@@ -675,25 +667,25 @@
       },
       "interaction": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "active": {
           "color": {
-            "value": "{draad.color.red.100}",
+            "value": "{draad.color.blue.100}",
             "type": "color"
           }
         },
         "hover": {
           "color": {
-            "value": "{draad.color.red.100}",
+            "value": "{draad.color.blue.100}",
             "type": "color"
           }
         }
       },
       "focus": {
         "background-color": {
-          "value": "{draad.color.blue.100}",
+          "value": "transparent",
           "type": "color"
         },
         "color": {
@@ -701,7 +693,7 @@
           "type": "color"
         },
         "outline-color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "inverse": {
@@ -890,11 +882,11 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{draad.color.blue.200}",
+            "value": "{draad.color.blue.100}",
             "type": "color"
           },
           "color": {
-            "value": "{draad.color.blue.200}",
+            "value": "{draad.color.blue.100}",
             "type": "color"
           }
         },
@@ -932,11 +924,11 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{draad.color.yellow.200}",
+            "value": "{draad.color.yellow.100}",
             "type": "color"
           },
           "color": {
-            "value": "{draad.color.yellow.200}",
+            "value": "black",
             "type": "color"
           }
         }
@@ -1102,7 +1094,7 @@
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.focus.background-color}"
+              "value": "{draad.color.gray.100}"
             },
             "border-color": {
               "value": "transparent",
@@ -1110,7 +1102,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.focus.color}"
+              "value": "{draad.color.blue.100}"
             }
           },
           "active": {
@@ -2318,7 +2310,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{draad.color.pink.100}"
+          "value": "{draad.color.blue.100}"
         },
         "border-color": {
           "type": "color",
@@ -4234,7 +4226,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{draad.color.pink.100}"
+          "value": "{draad.color.blue.100}"
         },
         "border-color": {
           "type": "color",
@@ -4913,7 +4905,7 @@
         "focus": {
           "border-color": {
             "type": "color",
-            "value": "{draad.color.blue.200}"
+            "value": "{draad.color.blue.100}"
           }
         },
         "checked": {
