@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 04 Sep 2024 08:29:34 GMT
+ * Generated on Fri, 06 Sep 2024 08:08:39 GMT
  */
 
 :root {
@@ -27,16 +27,16 @@
   --utrecht-accordion-button-hover-color: #CB8D44;
   --utrecht-accordion-button-expanded-background-color: hsl(0, 0%, 90%);
   --utrecht-accordion-button-expanded-border-color: transparent;
-  --utrecht-accordion-button-expanded-color: #F0BE5B;
+  --utrecht-accordion-button-expanded-color: #F1C053;
   --utrecht-accordion-button-background-color: hsl(0, 0%, 90%);
   --utrecht-accordion-button-border-color: transparent;
-  --utrecht-accordion-button-color: #F0BE5B;
+  --utrecht-accordion-button-color: #F1C053;
   --utrecht-accordion-button-focus-background-color: #257F3A;
   --utrecht-accordion-button-focus-border-color: transparent;
   --utrecht-accordion-button-focus-color: #ffffff;
   --utrecht-accordion-button-active-background-color: hsl(0, 0%, 70%);
   --utrecht-accordion-button-active-border-color: transparent;
-  --utrecht-accordion-button-active-color: #F0BE5B;
+  --utrecht-accordion-button-active-color: #F1C053;
   --utrecht-accordion-button-border-width: 1px;
   --utrecht-accordion-button-font-family: "urw-din",sans-serif;
   --utrecht-accordion-button-font-weight: Bold;
@@ -101,7 +101,7 @@
   --utrecht-button-primary-action-hover-background-color: #CB8D44;
   --utrecht-button-primary-action-hover-border-color: transparent;
   --utrecht-button-primary-action-hover-color: #000000;
-  --utrecht-button-primary-action-background-color: #F0BE5B;
+  --utrecht-button-primary-action-background-color: #F1C053;
   --utrecht-button-primary-action-border-color: transparent;
   --utrecht-button-primary-action-color: #000000;
   --utrecht-button-primary-action-disabled-background-color: hsl(0, 0%, 90%);
@@ -111,15 +111,15 @@
   --utrecht-button-primary-action-focus-border-color: transparent;
   --utrecht-button-primary-action-focus-color: #000000;
   --utrecht-button-primary-action-font-weight: Bold;
-  --utrecht-button-primary-action-active-background-color: #F0BE5B;
+  --utrecht-button-primary-action-active-background-color: #F1C053;
   --utrecht-button-primary-action-active-border-color: transparent;
   --utrecht-button-primary-action-active-color: #000000;
   --utrecht-button-secondary-action-hover-background-color: hsl(0, 0%, 90%);
   --utrecht-button-secondary-action-hover-border-color: #CB8D44;
   --utrecht-button-secondary-action-hover-color: #CB8D44;
   --utrecht-button-secondary-action-background-color: #ffffff;
-  --utrecht-button-secondary-action-border-color: #F0BE5B;
-  --utrecht-button-secondary-action-color: #F0BE5B;
+  --utrecht-button-secondary-action-border-color: #F1C053;
+  --utrecht-button-secondary-action-color: #F1C053;
   --utrecht-button-secondary-action-disabled-background-color: hsl(0, 0%, 90%);
   --utrecht-button-secondary-action-disabled-border-color: transparent;
   --utrecht-button-secondary-action-disabled-color: hsl(0, 0%, 20%);
@@ -128,8 +128,8 @@
   --utrecht-button-secondary-action-focus-color: #ffffff;
   --utrecht-button-secondary-action-font-weight: Bold;
   --utrecht-button-secondary-action-active-background-color: hsl(0, 0%, 90%);
-  --utrecht-button-secondary-action-active-border-color: #F0BE5B;
-  --utrecht-button-secondary-action-active-color: #F0BE5B;
+  --utrecht-button-secondary-action-active-border-color: #F1C053;
+  --utrecht-button-secondary-action-active-color: #F1C053;
   --utrecht-button-background-color: transparent;
   --utrecht-button-border-color: hsl(0, 0%, 0%);
   --utrecht-button-color: hsl(0, 0%, 0%);
@@ -146,7 +146,7 @@
   --utrecht-button-subtle-hover-color: #CB8D44;
   --utrecht-button-subtle-background-color: transparent;
   --utrecht-button-subtle-border-color: transparent;
-  --utrecht-button-subtle-color: #F0BE5B;
+  --utrecht-button-subtle-color: #F1C053;
   --utrecht-button-subtle-disabled-background-color: hsl(0, 0%, 90%);
   --utrecht-button-subtle-disabled-border-color: transparent;
   --utrecht-button-subtle-disabled-color: hsl(0, 0%, 20%);
@@ -155,7 +155,7 @@
   --utrecht-button-subtle-focus-color: #ffffff;
   --utrecht-button-subtle-active-background-color: #0000001a;
   --utrecht-button-subtle-active-border-color: transparent;
-  --utrecht-button-subtle-active-color: #F0BE5B;
+  --utrecht-button-subtle-active-color: #F1C053;
   --utrecht-button-line-height: 150%;
   --utrecht-button-padding-block-end: 12px;
   --utrecht-button-padding-block-start: 12px;
@@ -171,8 +171,8 @@
   --utrecht-button-hover-border-color: #CB8D44;
   --utrecht-button-hover-color: #CB8D44;
   --utrecht-button-active-background-color: hsl(0, 0%, 90%);
-  --utrecht-button-active-border-color: #F0BE5B;
-  --utrecht-button-active-color: #F0BE5B;
+  --utrecht-button-active-border-color: #F1C053;
+  --utrecht-button-active-color: #F1C053;
   --utrecht-button-min-block-size: 48px;
   --utrecht-button-min-inline-size: 48px;
   --utrecht-checkbox-border-radius: 0px;
@@ -188,7 +188,7 @@
   --utrecht-checkbox-focus-border-width: 2px;
   --utrecht-checkbox-disabled-background-color: hsl(0, 0%, 90%);
   --utrecht-checkbox-disabled-border-color: hsl(0, 0%, 20%);
-  --utrecht-checkbox-checked-background-color: #F0BE5B;
+  --utrecht-checkbox-checked-background-color: #F1C053;
   --utrecht-checkbox-checked-border-color: transparent;
   --utrecht-checkbox-checked-color: #ffffff;
   --utrecht-checkbox-checked-border-width: 1px;
@@ -204,17 +204,17 @@
   --utrecht-checkbox-checked-hover-border-color: transparent;
   --utrecht-checkbox-checked-hover-color: #ffffff;
   --utrecht-checkbox-checked-active-border-width: 2px;
-  --utrecht-checkbox-checked-active-background-color: #F0BE5B;
+  --utrecht-checkbox-checked-active-background-color: #F1C053;
   --utrecht-checkbox-checked-active-border-color: transparent;
   --utrecht-checkbox-checked-active-color: #ffffff;
-  --utrecht-checkbox-indeterminate-background-color: #F0BE5B;
+  --utrecht-checkbox-indeterminate-background-color: #F1C053;
   --utrecht-checkbox-indeterminate-border-color: transparent;
   --utrecht-checkbox-indeterminate-color: #ffffff;
   --utrecht-checkbox-indeterminate-border-width: 1px;
   --utrecht-checkbox-indeterminate-disabled-background-color: hsl(0, 0%, 20%);
   --utrecht-checkbox-indeterminate-disabled-border-color: transparent;
   --utrecht-checkbox-indeterminate-disabled-color: #ffffff;
-  --utrecht-checkbox-indeterminate-active-background-color: #F0BE5B;
+  --utrecht-checkbox-indeterminate-active-background-color: #F1C053;
   --utrecht-checkbox-indeterminate-active-border-color: transparent;
   --utrecht-checkbox-indeterminate-active-color: #ffffff;
   --utrecht-checkbox-indeterminate-active-border-width: 2px;
@@ -263,7 +263,7 @@
   --utrecht-form-field-invalid-border-inline-start-color: #E30613;
   --utrecht-form-field-invalid-border-inline-start-width: 2px;
   --utrecht-form-field-invalid-padding-inline-start: 16px;
-  --utrecht-heading-1-color: #F0BE5B;
+  --utrecht-heading-1-color: #F1C053;
   --utrecht-heading-1-font-family: "urw-din",sans-serif;
   --utrecht-heading-1-font-weight: Bold;
   --utrecht-heading-1-line-height: 125%;
@@ -294,9 +294,9 @@
   --utrecht-heading-6-line-height: 150%;
   --utrecht-heading-6-font-size: 14px;
   --utrecht-link-line-height: 150%;
-  --utrecht-link-color: #F0BE5B;
-  --utrecht-link-text-decoration-color: #F0BE5B;
-  --utrecht-link-active-color: #F0BE5B;
+  --utrecht-link-color: #F1C053;
+  --utrecht-link-text-decoration-color: #F1C053;
+  --utrecht-link-active-color: #F1C053;
   --utrecht-link-active-text-decoration: none;
   --utrecht-link-focus-background-color: #CB8D44;
   --utrecht-link-focus-color: #000000;
@@ -305,7 +305,7 @@
   --utrecht-link-hover-color: #CB8D44;
   --utrecht-link-hover-text-decoration: none;
   --utrecht-link-hover-text-decoration-thickness: auto;
-  --utrecht-link-visited-color: #F0BE5B;
+  --utrecht-link-visited-color: #F1C053;
   --utrecht-link-text-decoration: underline;
   --utrecht-link-icon-size: 24px;
   --utrecht-link-icon-margin-inline: 4px;
@@ -352,14 +352,14 @@
   --utrecht-radio-focus-border-width: 2px;
   --utrecht-radio-disabled-background-color: hsl(0, 0%, 90%);
   --utrecht-radio-disabled-border-color: hsl(0, 0%, 20%);
-  --utrecht-radio-checked-background-color: #F0BE5B;
+  --utrecht-radio-checked-background-color: #F1C053;
   --utrecht-radio-checked-border-color: transparent;
   --utrecht-radio-checked-color: #ffffff;
   --utrecht-radio-checked-hover-background-color: #CB8D44;
   --utrecht-radio-checked-hover-border-color: transparent;
   --utrecht-radio-checked-hover-color: #ffffff;
   --utrecht-radio-checked-hover-border-width: 2px;
-  --utrecht-radio-checked-active-background-color: #F0BE5B;
+  --utrecht-radio-checked-active-background-color: #F1C053;
   --utrecht-radio-checked-active-border-color: transparent;
   --utrecht-radio-checked-active-color: #ffffff;
   --utrecht-radio-checked-active-border-width: 2px;
@@ -582,13 +582,13 @@
   --utrecht-heading-color: hsl(0, 0%, 0%);
   --utrecht-heading-font-family: "urw-din",sans-serif;
   --utrecht-heading-font-weight: Bold;
-  --utrecht-heading-bright: #F0BE5B;
+  --utrecht-heading-bright: #F1C053;
   --utrecht-container-border-color: hsl(0, 0%, 90%);
   --utrecht-container-border-width: 1px;
   --utrecht-line-border-color: hsl(0, 0%, 90%);
   --utrecht-line-border-width: 1px;
-  --utrecht-interaction-color: #F0BE5B;
-  --utrecht-interaction-active-color: #F0BE5B;
+  --utrecht-interaction-color: #F1C053;
+  --utrecht-interaction-active-color: #F1C053;
   --utrecht-interaction-hover-color: #CB8D44;
   --utrecht-focus-background-color: #257F3A;
   --utrecht-focus-color: #ffffff;
@@ -597,12 +597,12 @@
   --utrecht-focus-outline-offset: 0;
   --utrecht-focus-outline-style: dotted;
   --utrecht-focus-outline-width: 2px;
-  --utrecht-form-control-accent-color: #F0BE5B;
+  --utrecht-form-control-accent-color: #F1C053;
   --utrecht-form-control-background-color: #ffffff;
   --utrecht-form-control-border-color: hsl(0, 0%, 20%);
   --utrecht-form-control-border-width: 1px;
   --utrecht-form-control-color: hsl(0, 0%, 5%);
-  --utrecht-form-control-active-accent-color: #F0BE5B;
+  --utrecht-form-control-active-accent-color: #F1C053;
   --utrecht-form-control-active-background-color: hsl(0, 0%, 90%);
   --utrecht-form-control-active-border-color: hsl(0, 0%, 20%);
   --utrecht-form-control-active-border-width: 2px;
@@ -643,7 +643,7 @@
   --utrecht-feedback-warning-background-color: #F1C053;
   --utrecht-feedback-warning-border-color: #CB8D44;
   --utrecht-feedback-warning-color: #CB8D44;
-  --todo-avatar-background-color: #F0BE5B;
+  --todo-avatar-background-color: #F1C053;
   --todo-avatar-border-radius: 999px;
   --todo-avatar-size: 48px;
   --todo-avatar-icon-icon-size: 24px;
@@ -672,8 +672,8 @@
   --todo-breadcrumb-link-padding-block-start: 12px;
   --todo-breadcrumb-link-padding-inline-end: 0px;
   --todo-breadcrumb-link-padding-inline-start: 0px;
-  --todo-breadcrumb-link-color: #F0BE5B;
-  --todo-breadcrumb-link-active-color: #F0BE5B;
+  --todo-breadcrumb-link-color: #F1C053;
+  --todo-breadcrumb-link-active-color: #F1C053;
   --todo-breadcrumb-link-active-text-decoration: none;
   --todo-breadcrumb-link-focus-background-color: #257F3A;
   --todo-breadcrumb-link-focus-color: #ffffff;
@@ -804,10 +804,10 @@
   --todo-pagination-relative-link-padding-inline-end: 0px;
   --todo-pagination-relative-link-background-color: transparent;
   --todo-pagination-relative-link-border-color: transparent;
-  --todo-pagination-relative-link-color: #F0BE5B;
+  --todo-pagination-relative-link-color: #F1C053;
   --todo-pagination-relative-link-active-background-color: transparent;
   --todo-pagination-relative-link-active-border-color: transparent;
-  --todo-pagination-relative-link-active-color: #F0BE5B;
+  --todo-pagination-relative-link-active-color: #F1C053;
   --todo-pagination-relative-link-active-text-decoration: underline;
   --todo-pagination-relative-link-focus-background-color: #257F3A;
   --todo-pagination-relative-link-focus-color: #ffffff;
@@ -847,10 +847,10 @@
   --todo-pagination-page-link-active-text-decoration: underline;
   --todo-pagination-page-link-active-background-color: transparent;
   --todo-pagination-page-link-active-border-color: transparent;
-  --todo-pagination-page-link-active-color: #F0BE5B;
+  --todo-pagination-page-link-active-color: #F1C053;
   --todo-pagination-page-link-background-color: transparent;
   --todo-pagination-page-link-border-color: transparent;
-  --todo-pagination-page-link-color: #F0BE5B;
+  --todo-pagination-page-link-color: #F1C053;
   --todo-pagination-page-link-min-block-size: 48px;
   --todo-pagination-page-link-min-inline-size: 48px;
   --todo-pagination-font-family: "urw-din",sans-serif;
@@ -898,8 +898,8 @@
   --denhaag-sidenav-link-font-weight: Regular;
   --denhaag-sidenav-link-current-font-weight: Bold;
   --denhaag-sidenav-link-current-color: hsl(0, 0%, 0%);
-  --denhaag-sidenav-link-color: #F0BE5B;
-  --denhaag-sidenav-link-active-color: #F0BE5B;
+  --denhaag-sidenav-link-color: #F1C053;
+  --denhaag-sidenav-link-active-color: #F1C053;
   --denhaag-sidenav-link-active-text-decoration: underline;
   --denhaag-sidenav-link-focus-background-color: #257F3A;
   --denhaag-sidenav-link-focus-color: #ffffff;
@@ -940,7 +940,7 @@
   --draad-color-red-100: #E30613;
   --draad-color-yellow-100: #F1C053;
   --draad-color-yellow-200: #CB8D44;
-  --draad-color-yellow-300: #F0BE5B;
+  --draad-color-yellow-300: #F1C053;
   --draad-color-yellow-400: #FBF1DA;
   --draad-color-green-100: #AACE76;
   --draad-color-green-200: #2F7E2F;
