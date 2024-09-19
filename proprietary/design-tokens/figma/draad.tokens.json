@@ -42,11 +42,11 @@
             "type": "lineHeights"
           },
           "md": {
-            "value": "150%",
+            "value": "160%",
             "type": "lineHeights"
           },
           "lg": {
-            "value": "200%",
+            "value": "160%",
             "type": "lineHeights"
           }
         },
