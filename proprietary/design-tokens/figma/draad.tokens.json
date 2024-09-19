@@ -82,7 +82,7 @@
         },
         "gray": {
           "100": {
-            "value": "hsl(0, 0%, 90%)",
+            "value": "#F0F4F8",
             "type": "color"
           },
           "200": {
@@ -645,7 +645,7 @@
           "type": "fontWeights"
         },
         "bright": {
-          "value": "#333",
+          "value": "#0076AF",
           "type": "color"
         }
       },
@@ -1098,7 +1098,7 @@
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.focus.background-color}"
+              "value": "{draad.color.gray.100}"
             },
             "border-color": {
               "value": "transparent",
@@ -1112,7 +1112,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{draad.color.gray.200}"
+              "value": "{draad.color.gray.100}"
             },
             "border-color": {
               "value": "transparent",
@@ -2794,7 +2794,7 @@
       "heading-1": {
         "color": {
           "type": "color",
-          "value": "{utrecht.heading.bright}"
+          "value": "{utrecht.heading.color}"
         },
         "font-family": {
           "value": "{utrecht.heading.font-family}",
@@ -2816,7 +2816,7 @@
       "heading-2": {
         "color": {
           "type": "color",
-          "value": "{utrecht.heading.color}"
+          "value": "{utrecht.heading.bright}"
         },
         "font-family": {
           "value": "{utrecht.heading.font-family}",
@@ -2838,7 +2838,7 @@
       "heading-3": {
         "color": {
           "type": "color",
-          "value": "{utrecht.heading.color}"
+          "value": "{utrecht.heading.bright}"
         },
         "font-family": {
           "value": "{utrecht.heading.font-family}",
@@ -2860,7 +2860,7 @@
       "heading-4": {
         "color": {
           "type": "color",
-          "value": "{utrecht.heading.color}"
+          "value": "{utrecht.heading.bright}"
         },
         "font-family": {
           "value": "{utrecht.heading.font-family}",
@@ -2882,7 +2882,7 @@
       "heading-5": {
         "color": {
           "type": "color",
-          "value": "{utrecht.heading.color}"
+          "value": "{utrecht.heading.bright}"
         },
         "font-family": {
           "value": "{utrecht.heading.font-family}",
@@ -2904,7 +2904,7 @@
       "heading-6": {
         "color": {
           "type": "color",
-          "value": "{utrecht.heading.color}"
+          "value": "{utrecht.heading.bright}"
         },
         "font-family": {
           "value": "{utrecht.heading.font-family}",
