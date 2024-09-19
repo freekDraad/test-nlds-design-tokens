@@ -62,11 +62,11 @@
         },
         "font-family": {
           "primary": {
-            "value": "'Verdana Pro', Verdana, Geneva, sans-serif",
+            "value": "'VerdanaPro-CondRegular', sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "'Verdana Pro', Verdana, Geneva, sans-serif",
+            "value": "'VerdanaPro-CondRegular', sans-serif",
             "type": "fontFamilies"
           }
         }
