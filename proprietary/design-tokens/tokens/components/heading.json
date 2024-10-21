@@ -3,6 +3,28 @@
     "heading-1": {
       "color": {
         "type": "color",
+        "value": "#333"
+      },
+      "font-family": {
+        "value": "{utrecht.heading.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "700",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "36px",
+        "type": "lineHeights"
+      },
+      "font-size": {
+        "value": "24px",
+        "type": "fontSizes"
+      }
+    },
+    "heading-2": {
+      "color": {
+        "type": "color",
         "value": "{utrecht.heading.bright}"
       },
       "font-family": {
@@ -10,88 +32,66 @@
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "400",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.sm}",
+        "value": "32px",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.3xl}",
-        "type": "fontSizes"
-      }
-    },
-    "heading-2": {
-      "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
-      },
-      "font-family": {
-        "value": "{utrecht.heading.font-family}",
-        "type": "fontFamilies"
-      },
-      "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
-        "type": "fontWeights"
-      },
-      "line-height": {
-        "value": "{draad.typography.line-height.sm}",
-        "type": "lineHeights"
-      },
-      "font-size": {
-        "value": "{draad.typography.font-size.2xl}",
+        "value": "21px",
         "type": "fontSizes"
       }
     },
     "heading-3": {
       "color": {
         "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{utrecht.heading.bright}"
       },
       "font-family": {
         "value": "{utrecht.heading.font-family}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "400",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.sm}",
+        "value": "27px",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.xl}",
+        "value": "18px",
         "type": "fontSizes"
       }
     },
     "heading-4": {
       "color": {
         "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "#333"
       },
       "font-family": {
         "value": "{utrecht.heading.font-family}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "400",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.md}",
+        "value": "25px",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.lg}",
+        "value": "17px",
         "type": "fontSizes"
       }
     },
     "heading-5": {
       "color": {
         "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{utrecht.heading.bright}"
       },
       "font-family": {
         "value": "{utrecht.heading.font-family}",
@@ -113,7 +113,7 @@
     "heading-6": {
       "color": {
         "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{utrecht.heading.bright}"
       },
       "font-family": {
         "value": "{utrecht.heading.font-family}",

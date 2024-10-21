@@ -7,7 +7,7 @@
       },
       "color": {
         "type": "color",
-        "value": "{utrecht.document.color}"
+        "value": "{draad.color.blue.100}"
       },
       "font-family": {
         "value": "{utrecht.document.font-family}",

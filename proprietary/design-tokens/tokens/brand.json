@@ -41,11 +41,11 @@
           "type": "lineHeights"
         },
         "md": {
-          "value": "150%",
+          "value": "160%",
           "type": "lineHeights"
         },
         "lg": {
-          "value": "200%",
+          "value": "160%",
           "type": "lineHeights"
         }
       },
@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+          "value": "'VerdanaPro-CondRegular', sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+          "value": "'VerdanaPro-CondRegular', sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -81,7 +81,7 @@
       },
       "gray": {
         "100": {
-          "value": "#F3F3F3",
+          "value": "#F0F4F8",
           "type": "color"
         },
         "200": {
@@ -118,40 +118,44 @@
         }
       },
       "pink": {
-        "100": {
-          "value": "#F8C6DE",
+        "200": {
+          "value": "#96034C",
           "type": "color"
         },
-        "200": {
-          "value": "#7C397E",
+        "300": {
+          "value": "#43237A",
           "type": "color"
         }
       },
       "red": {
         "100": {
-          "value": "#FF0000",
+          "value": "#D6081F",
           "type": "color"
         }
       },
       "yellow": {
-        "100": {
-          "value": "#FFE115",
+        "200": {
+          "value": "#EF7D00",
+          "type": "color"
+        },
+        "300": {
+          "value": "#C39600",
           "type": "color"
         }
       },
       "green": {
         "100": {
-          "value": "#AACE76",
-          "type": "color"
-        },
-        "200": {
-          "value": "#2F7E2F",
+          "value": "#AAB500",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#027D96",
+          "value": "#0076AF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#254D64",
           "type": "color"
         }
       },
@@ -431,15 +435,15 @@
     },
     "border-radius": {
       "sm": {
-        "value": "0px",
+        "value": "0",
         "type": "borderRadius"
       },
       "md": {
-        "value": "0px",
+        "value": "0",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "0px",
+        "value": "0",
         "type": "borderRadius"
       },
       "round": {

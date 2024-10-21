@@ -22,7 +22,7 @@
       "focus": {
         "border-color": {
           "type": "color",
-          "value": "{draad.color.blue.100}"
+          "value": "{draad.color.blue.200}"
         }
       },
       "checked": {

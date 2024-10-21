@@ -131,13 +131,13 @@
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.blue.100}"
+            "value": "{utrecht.focus.color}"
           }
         },
         "active": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.gray.200}"
+            "value": "{draad.color.gray.100}"
           },
           "border-color": {
             "value": "transparent",

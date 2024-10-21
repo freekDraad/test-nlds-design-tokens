@@ -325,6 +325,10 @@
         "color": {
           "value": "{utrecht.interaction.hover.color}",
           "type": "color"
+        },
+        "scale": {
+          "value": "1",
+          "type": "other"
         }
       },
       "active": {
