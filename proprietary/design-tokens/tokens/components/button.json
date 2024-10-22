@@ -239,7 +239,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{utrecht.focus.background-color}"
+            "value": "white"
           },
           "border-color": {
             "type": "color",
