@@ -12,7 +12,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{draad.color.gray.900}",
+        "value": "{draad.color.gray.500}",
         "type": "color"
       },
       "inverse": {
@@ -56,7 +56,7 @@
     },
     "heading": {
       "color": {
-        "value": "{draad.color.gray.900}",
+        "value": "{draad.color.gray.500}",
         "type": "color"
       },
       "font-family": {
@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.gray.500}",
         "type": "color"
       }
     },
@@ -94,33 +94,33 @@
     },
     "interaction": {
       "color": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.green.200}",
         "type": "color"
       },
       "active": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.green.300}",
           "type": "color"
         }
       },
       "hover": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.green.300}",
           "type": "color"
         }
       }
     },
     "focus": {
       "background-color": {
-        "value": "{draad.color.blue.100}",
+        "value": "{draad.color.green.300}",
         "type": "color"
       },
       "color": {
-        "value": "{draad.color.black}",
+        "value": "{draad.color.white}",
         "type": "color"
       },
       "outline-color": {
-        "value": "{draad.color.blue.200}",
+        "value": "{draad.color.black}",
         "type": "color"
       },
       "inverse": {
@@ -309,11 +309,11 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.black}",
           "type": "color"
         }
       },
@@ -333,7 +333,7 @@
       },
       "positive": {
         "background-color": {
-          "value": "{draad.color.green.100}",
+          "value": "{draad.color.green.200}",
           "type": "color"
         },
         "border-color": {
@@ -341,7 +341,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.green.200}",
+          "value": "{draad.color.black}",
           "type": "color"
         }
       },

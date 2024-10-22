@@ -3,7 +3,7 @@
     "paragraph": {
       "color": {
         "type": "color",
-        "value": "{utrecht.document.color}"
+        "value": "{draad.color.gray.500}"
       },
       "font-family": {
         "value": "{utrecht.document.font-family}",
@@ -25,7 +25,7 @@
     "paragraph-lead": {
       "color": {
         "type": "color",
-        "value": "{utrecht.document.color}"
+        "value": "{draad.color.gray.500}"
       },
       "font-family": {
         "value": "{utrecht.document.font-family}",
@@ -47,7 +47,7 @@
     "paragraph-small-print": {
       "color": {
         "type": "color",
-        "value": "{utrecht.document.color}"
+        "value": "{draad.color.gray.500}"
       },
       "font-family": {
         "value": "{utrecht.document.font-family}",

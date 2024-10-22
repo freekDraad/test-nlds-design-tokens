@@ -145,21 +145,25 @@
       },
       "green": {
         "100": {
-          "value": "#AACE76",
+          "value": "#F7F8F7",
           "type": "color"
         },
         "200": {
-          "value": "#2F7E2F",
+          "value": "#44772D",
+          "type": "color"
+        },
+        "300": {
+          "value": "#3A6525",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#8E9ED1",
+          "value": "#8FB6D9",
           "type": "color"
         },
         "200": {
-          "value": "#27358B",
+          "value": "#8FB6D9",
           "type": "color"
         }
       },
@@ -439,15 +443,15 @@
     },
     "border-radius": {
       "sm": {
-        "value": "0px",
+        "value": "4px",
         "type": "borderRadius"
       },
       "md": {
-        "value": "0px",
+        "value": "4px",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "0px",
+        "value": "4px",
         "type": "borderRadius"
       },
       "round": {

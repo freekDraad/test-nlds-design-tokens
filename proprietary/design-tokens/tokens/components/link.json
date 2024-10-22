@@ -26,11 +26,11 @@
       "focus": {
         "background-color": {
           "type": "color",
-          "value": "{utrecht.focus.background-color}"
+          "value": "{draad.color.white}"
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.focus.color}"
+          "value": "{utrecht.interaction.hover.color}"
         },
         "text-decoration": {
           "value": "none",
