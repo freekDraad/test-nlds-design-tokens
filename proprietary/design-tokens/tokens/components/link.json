@@ -26,7 +26,7 @@
       "focus": {
         "background-color": {
           "type": "color",
-          "value": "{utrecht.focus.background-color}"
+          "value": "transparent"
         },
         "color": {
           "type": "color",

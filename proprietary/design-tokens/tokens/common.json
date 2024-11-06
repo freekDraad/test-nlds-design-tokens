@@ -17,7 +17,7 @@
       },
       "inverse": {
         "background-color": {
-          "value": "{draad.color.gray.800}",
+          "value": "{draad.color.gray.900}",
           "type": "color"
         },
         "color": {
@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.gray.900}",
         "type": "color"
       }
     },
@@ -94,18 +94,18 @@
     },
     "interaction": {
       "color": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.blue.100}",
         "type": "color"
       },
       "active": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         }
       },
       "hover": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         }
       }
