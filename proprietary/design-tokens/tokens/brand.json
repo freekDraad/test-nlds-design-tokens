@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+          "value": "'Poppins', sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+          "value": "'Poppins', sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -81,11 +81,11 @@
       },
       "gray": {
         "100": {
-          "value": "hsl(0, 0%, 90%)",
+          "value": "#F2F2F2",
           "type": "color"
         },
         "200": {
-          "value": "hsl(0, 0%, 70%)",
+          "value": "#F2F2F2",
           "type": "color"
         },
         "300": {
@@ -119,11 +119,7 @@
       },
       "pink": {
         "100": {
-          "value": "#F8C6DE",
-          "type": "color"
-        },
-        "200": {
-          "value": "#7C397E",
+          "value": "#EBADCC",
           "type": "color"
         }
       },
@@ -135,31 +131,19 @@
       },
       "yellow": {
         "100": {
-          "value": "#F1C053",
-          "type": "color"
-        },
-        "200": {
-          "value": "#CB8D44",
+          "value": "#E9E358",
           "type": "color"
         }
       },
       "green": {
-        "100": {
-          "value": "#AACE76",
-          "type": "color"
-        },
         "200": {
-          "value": "#2F7E2F",
+          "value": "#8ECF6A",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#8E9ED1",
-          "type": "color"
-        },
-        "200": {
-          "value": "#27358B",
+          "value": "#1C2E54",
           "type": "color"
         }
       },
@@ -439,15 +423,15 @@
     },
     "border-radius": {
       "sm": {
-        "value": "0px",
+        "value": "3px",
         "type": "borderRadius"
       },
       "md": {
-        "value": "0px",
+        "value": "10px",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "0px",
+        "value": "20px",
         "type": "borderRadius"
       },
       "round": {
