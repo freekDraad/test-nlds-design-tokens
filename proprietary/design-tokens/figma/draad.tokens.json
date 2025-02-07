@@ -62,11 +62,11 @@
         },
         "font-family": {
           "primary": {
-            "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+            "value": "\"Trade Gothic\", sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+            "value": "arial, sans-serif",
             "type": "fontFamilies"
           }
         }
@@ -120,11 +120,7 @@
         },
         "pink": {
           "100": {
-            "value": "#F8C6DE",
-            "type": "color"
-          },
-          "200": {
-            "value": "#7C397E",
+            "value": "#CF2F79",
             "type": "color"
           }
         },
@@ -156,11 +152,15 @@
         },
         "blue": {
           "100": {
-            "value": "#8E9ED1",
+            "value": "#009cda",
             "type": "color"
           },
           "200": {
-            "value": "#27358B",
+            "value": "#016596",
+            "type": "color"
+          },
+          "300": {
+            "value": "#003066",
             "type": "color"
           }
         },
@@ -637,7 +637,7 @@
       },
       "heading": {
         "color": {
-          "value": "{draad.color.gray.900}",
+          "value": "{draad.color.blue.300}",
           "type": "color"
         },
         "font-family": {
@@ -649,7 +649,7 @@
           "type": "fontWeights"
         },
         "bright": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.300}",
           "type": "color"
         }
       },
@@ -675,18 +675,18 @@
       },
       "interaction": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "active": {
           "color": {
-            "value": "{draad.color.red.100}",
+            "value": "{draad.color.blue.200}",
             "type": "color"
           }
         },
         "hover": {
           "color": {
-            "value": "{draad.color.red.100}",
+            "value": "{draad.color.blue.200}",
             "type": "color"
           }
         }
@@ -697,7 +697,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.black}",
+          "value": "{draad.color.white}",
           "type": "color"
         },
         "outline-color": {
@@ -1690,11 +1690,11 @@
             },
             "border-color": {
               "type": "color",
-              "value": "{utrecht.interaction.hover.color}"
+              "value": "{draad.color.pink.100}"
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.hover.color}"
+              "value": "{draad.color.pink.100}"
             }
           },
           "background-color": {
@@ -1703,11 +1703,11 @@
           },
           "border-color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{draad.color.pink.100}"
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{draad.color.pink.100}"
           },
           "disabled": {
             "background-color": {
@@ -1726,7 +1726,7 @@
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.focus.background-color}"
+              "value": "{draad.color.pink.100}"
             },
             "border-color": {
               "type": "color",
@@ -1748,11 +1748,11 @@
             },
             "border-color": {
               "type": "color",
-              "value": "{utrecht.interaction.active.color}"
+              "value": "{draad.color.pink.100}"
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.active.color}"
+              "value": "{draad.color.pink.100}"
             }
           }
         },
@@ -1787,7 +1787,7 @@
           }
         },
         "font-family": {
-          "value": "{utrecht.document.font-family}",
+          "value": "{draad.typography.font-family.primary}",
           "type": "fontFamilies"
         },
         "font-size": {
