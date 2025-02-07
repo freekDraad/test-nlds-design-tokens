@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+          "value": "\"Trade Gothic\", sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+          "value": "arial, sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -119,11 +119,7 @@
       },
       "pink": {
         "100": {
-          "value": "#F8C6DE",
-          "type": "color"
-        },
-        "200": {
-          "value": "#7C397E",
+          "value": "#CF2F79",
           "type": "color"
         }
       },
@@ -155,11 +151,15 @@
       },
       "blue": {
         "100": {
-          "value": "#8E9ED1",
+          "value": "#009cda",
           "type": "color"
         },
         "200": {
-          "value": "#27358B",
+          "value": "#016596",
+          "type": "color"
+        },
+        "300": {
+          "value": "#003066",
           "type": "color"
         }
       },

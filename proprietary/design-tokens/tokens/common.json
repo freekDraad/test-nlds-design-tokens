@@ -56,7 +56,7 @@
     },
     "heading": {
       "color": {
-        "value": "{draad.color.gray.900}",
+        "value": "{draad.color.blue.300}",
         "type": "color"
       },
       "font-family": {
@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.blue.300}",
         "type": "color"
       }
     },
@@ -94,18 +94,18 @@
     },
     "interaction": {
       "color": {
-        "value": "{draad.color.red.100}",
+        "value": "{draad.color.blue.100}",
         "type": "color"
       },
       "active": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.200}",
           "type": "color"
         }
       },
       "hover": {
         "color": {
-          "value": "{draad.color.red.100}",
+          "value": "{draad.color.blue.200}",
           "type": "color"
         }
       }
@@ -116,7 +116,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{draad.color.black}",
+        "value": "{draad.color.white}",
         "type": "color"
       },
       "outline-color": {

@@ -83,11 +83,11 @@
           },
           "border-color": {
             "type": "color",
-            "value": "{utrecht.interaction.hover.color}"
+            "value": "{draad.color.pink.100}"
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.hover.color}"
+            "value": "{draad.color.pink.100}"
           }
         },
         "background-color": {
@@ -96,11 +96,11 @@
         },
         "border-color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "{draad.color.pink.100}"
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "{draad.color.pink.100}"
         },
         "disabled": {
           "background-color": {
@@ -119,7 +119,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{utrecht.focus.background-color}"
+            "value": "{draad.color.pink.100}"
           },
           "border-color": {
             "type": "color",
@@ -141,11 +141,11 @@
           },
           "border-color": {
             "type": "color",
-            "value": "{utrecht.interaction.active.color}"
+            "value": "{draad.color.pink.100}"
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.active.color}"
+            "value": "{draad.color.pink.100}"
           }
         }
       },
@@ -180,7 +180,7 @@
         }
       },
       "font-family": {
-        "value": "{utrecht.document.font-family}",
+        "value": "{draad.typography.font-family.primary}",
         "type": "fontFamilies"
       },
       "font-size": {
