@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+          "value": "\"Arboria\"",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+          "value": "\"apercu-pro\", Verdana, Geneva, sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -119,17 +119,13 @@
       },
       "pink": {
         "100": {
-          "value": "#F8C6DE",
-          "type": "color"
-        },
-        "200": {
-          "value": "#7C397E",
+          "value": "#F8BADD",
           "type": "color"
         }
       },
       "red": {
         "100": {
-          "value": "#E30613",
+          "value": "#FF5151",
           "type": "color"
         }
       },
@@ -145,21 +141,29 @@
       },
       "green": {
         "100": {
-          "value": "#AACE76",
+          "value": "#ECF9EC",
           "type": "color"
         },
         "200": {
-          "value": "#2F7E2F",
+          "value": "#1BB562",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#8E9ED1",
+          "value": "#85E3F9",
           "type": "color"
         },
         "200": {
-          "value": "#27358B",
+          "value": "#0061CD",
+          "type": "color"
+        },
+        "300": {
+          "value": "#F1F5FC",
+          "type": "color"
+        },
+        "400": {
+          "value": "#00215B",
           "type": "color"
         }
       },
@@ -443,7 +447,7 @@
         "type": "borderRadius"
       },
       "md": {
-        "value": "0px",
+        "value": "50px",
         "type": "borderRadius"
       },
       "lg": {
