@@ -25,7 +25,7 @@
     "heading-2": {
       "color": {
         "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{utrecht.heading.bright}"
       },
       "font-family": {
         "value": "{utrecht.heading.font-family}",
@@ -47,7 +47,7 @@
     "heading-3": {
       "color": {
         "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{utrecht.heading.bright}"
       },
       "font-family": {
         "value": "{utrecht.heading.font-family}",

@@ -15,7 +15,7 @@
           "value": "auto"
         },
         "border-color": {
-          "value": "{utrecht.line.border-color}",
+          "value": "#F3F3F3",
           "type": "color"
         }
       },
@@ -83,7 +83,7 @@
         "hover": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.gray.100}"
+            "value": "{draad.color.blue.400}"
           },
           "border-color": {
             "value": "transparent",
@@ -91,12 +91,12 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.hover.color}"
+            "value": "#fff"
           }
         },
         "expanded": {
           "background-color": {
-            "value": "{draad.color.gray.100}",
+            "value": "{draad.color.blue.300}",
             "type": "color"
           },
           "border-color": {
@@ -105,12 +105,12 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "#fff"
           }
         },
         "background-color": {
           "type": "color",
-          "value": "{draad.color.gray.100}"
+          "value": "{draad.color.blue.300}"
         },
         "border-color": {
           "value": "transparent",
@@ -118,12 +118,12 @@
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "#fff"
         },
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{utrecht.focus.background-color}"
+            "value": "{draad.color.blue.300}"
           },
           "border-color": {
             "value": "transparent",
@@ -131,13 +131,13 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.focus.color}"
+            "value": "#fff"
           }
         },
         "active": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.gray.200}"
+            "value": "{draad.color.blue.300}"
           },
           "border-color": {
             "value": "transparent",
@@ -145,7 +145,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.active.color}"
+            "value": "#fff"
           }
         },
         "border-width": {

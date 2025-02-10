@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+          "value": "Arial",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+          "value": "Arial",
           "type": "fontFamilies"
         }
       }
@@ -155,11 +155,19 @@
       },
       "blue": {
         "100": {
-          "value": "#8E9ED1",
+          "value": "#549692",
           "type": "color"
         },
         "200": {
-          "value": "#27358B",
+          "value": "#36726F",
+          "type": "color"
+        },
+        "300": {
+          "value": "#063B96",
+          "type": "color"
+        },
+        "400": {
+          "value": "#012A6E",
           "type": "color"
         }
       },
