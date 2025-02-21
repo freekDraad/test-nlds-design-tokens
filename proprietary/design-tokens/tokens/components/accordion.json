@@ -123,7 +123,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{utrecht.focus.background-color}"
+            "value": "{draad.color.gray.100}"
           },
           "border-color": {
             "value": "transparent",
@@ -131,7 +131,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.focus.color}"
+            "value": "{utrecht.interaction.hover.color}"
           }
         },
         "active": {
