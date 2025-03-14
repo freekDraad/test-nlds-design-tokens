@@ -7,7 +7,7 @@
           "type": "fontSizes"
         },
         "md": {
-          "value": "18px",
+          "value": "16px",
           "type": "fontSizes"
         },
         "lg": {
@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "'Circular Std'",
+          "value": "\"Roboto\", sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "'Circular Std'",
+          "value": "\"Roboto\", sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -150,16 +150,12 @@
         }
       },
       "blue": {
-        "100": {
-          "value": "#F5F9FA",
-          "type": "color"
-        },
         "200": {
-          "value": "#0072A3",
+          "value": "#005DA4",
           "type": "color"
         },
         "300": {
-          "value": "#006189",
+          "value": "#2E4B71",
           "type": "color"
         }
       },
@@ -439,15 +435,15 @@
     },
     "border-radius": {
       "sm": {
-        "value": "4px",
+        "value": "0",
         "type": "borderRadius"
       },
       "md": {
-        "value": "4px",
+        "value": "0",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "4px",
+        "value": "0",
         "type": "borderRadius"
       },
       "round": {

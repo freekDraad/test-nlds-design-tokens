@@ -56,7 +56,7 @@
     },
     "heading": {
       "color": {
-        "value": "#333",
+        "value": "{draad.color.blue.200}",
         "type": "color"
       },
       "font-family": {
@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "#333",
+        "value": "{draad.color.blue.200}",
         "type": "color"
       }
     },
@@ -305,7 +305,7 @@
     "feedback": {
       "informative": {
         "background-color": {
-          "value": "{draad.color.blue.100}",
+          "value": "#fff",
           "type": "color"
         },
         "border-color": {
