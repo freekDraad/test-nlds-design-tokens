@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "{draad.color.green.200}",
+        "value": "#333",
         "type": "color"
       }
     },

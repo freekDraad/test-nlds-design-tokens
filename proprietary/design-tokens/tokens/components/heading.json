@@ -10,7 +10,7 @@
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "500",
         "type": "fontWeights"
       },
       "line-height": {

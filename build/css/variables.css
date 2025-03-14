@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Feb 2025 13:23:32 GMT
+ * Generated on Mon, 03 Mar 2025 07:05:13 GMT
  */
 
 :root {
@@ -14,7 +14,7 @@
   --utrecht-accordion-body-padding-block-start: 24px;
   --utrecht-accordion-body-padding-inline-end: 16px;
   --utrecht-accordion-body-padding-inline-start: 16px;
-  --utrecht-accordion-button-font-size: 16px;
+  --utrecht-accordion-button-font-size: 18px;
   --utrecht-accordion-button-line-height: 150%;
   --utrecht-accordion-button-icon-margin-inline: 8px;
   --utrecht-accordion-button-icon-size: 24px;
@@ -138,7 +138,7 @@
   --utrecht-button-icon-size: 24px;
   --utrecht-button-icon-margin-inline: 4px;
   --utrecht-button-font-family: 'Circular Std';
-  --utrecht-button-font-size: 16px;
+  --utrecht-button-font-size: 18px;
   --utrecht-button-font-weight: Bold;
   --utrecht-button-subtle-font-weight: Bold;
   --utrecht-button-subtle-hover-background-color: #0000000d;
@@ -247,25 +247,25 @@
   --utrecht-counter-badge-padding-inline: 4px;
   --utrecht-counter-badge-padding-block: 4px;
   --utrecht-drawer-header-label-font-family: 'Circular Std';
-  --utrecht-drawer-header-label-font-size: 16px;
+  --utrecht-drawer-header-label-font-size: 18px;
   --utrecht-drawer-header-label-font-weight: Bold;
   --utrecht-drawer-header-label-line-height: 150%;
   --utrecht-form-field-description-color: hsl(0, 0%, 15%);
   --utrecht-form-field-description-font-family: 'Circular Std';
-  --utrecht-form-field-description-font-size: 16px;
+  --utrecht-form-field-description-font-size: 18px;
   --utrecht-form-field-description-font-weight: Regular;
   --utrecht-form-field-description-line-height: 150%;
   --utrecht-form-field-error-message-color: #E30613;
   --utrecht-form-field-error-message-font-family: 'Circular Std';
-  --utrecht-form-field-error-message-font-size: 16px;
+  --utrecht-form-field-error-message-font-size: 18px;
   --utrecht-form-field-error-message-font-weight: Regular;
   --utrecht-form-field-error-message-line-height: 150%;
   --utrecht-form-field-invalid-border-inline-start-color: #E30613;
   --utrecht-form-field-invalid-border-inline-start-width: 2px;
   --utrecht-form-field-invalid-padding-inline-start: 16px;
-  --utrecht-heading-1-color: #4D8433;
+  --utrecht-heading-1-color: #333;
   --utrecht-heading-1-font-family: 'Circular Std';
-  --utrecht-heading-1-font-weight: Bold;
+  --utrecht-heading-1-font-weight: 500;
   --utrecht-heading-1-line-height: 125%;
   --utrecht-heading-1-font-size: 40px;
   --utrecht-heading-2-color: #333;
@@ -287,7 +287,7 @@
   --utrecht-heading-5-font-family: 'Circular Std';
   --utrecht-heading-5-font-weight: Bold;
   --utrecht-heading-5-line-height: 150%;
-  --utrecht-heading-5-font-size: 16px;
+  --utrecht-heading-5-font-size: 18px;
   --utrecht-heading-6-color: #333;
   --utrecht-heading-6-font-family: 'Circular Std';
   --utrecht-heading-6-font-weight: Bold;
@@ -309,7 +309,7 @@
   --utrecht-link-text-decoration: underline;
   --utrecht-link-icon-size: 24px;
   --utrecht-link-icon-margin-inline: 4px;
-  --utrecht-link-font-size: 16px;
+  --utrecht-link-font-size: 18px;
   --utrecht-link-font-family: 'Circular Std';
   --utrecht-link-text-decoration-thickness: auto;
   --utrecht-link-text-underline-offset: auto;
@@ -318,13 +318,13 @@
   --utrecht-ordered-list-color: #333;
   --utrecht-ordered-list-font-family: 'Circular Std';
   --utrecht-ordered-list-font-weight: Regular;
-  --utrecht-ordered-list-font-size: 16px;
+  --utrecht-ordered-list-font-size: 18px;
   --utrecht-ordered-list-line-height: 150%;
   --utrecht-ordered-list-item-margin-block-end: 4px;
   --utrecht-ordered-list-item-margin-block-start: 4px;
   --utrecht-paragraph-color: #333;
   --utrecht-paragraph-font-family: 'Circular Std';
-  --utrecht-paragraph-font-size: 16px;
+  --utrecht-paragraph-font-size: 18px;
   --utrecht-paragraph-font-weight: Regular;
   --utrecht-paragraph-line-height: 150%;
   --utrecht-paragraph-lead-color: #333;
@@ -405,7 +405,7 @@
   --utrecht-select-font-family: 'Circular Std';
   --utrecht-select-font-weight: Regular;
   --utrecht-select-line-height: 150%;
-  --utrecht-select-font-size: 16px;
+  --utrecht-select-font-size: 18px;
   --utrecht-select-max-inline-size: 400px;
   --utrecht-separator-color: hsl(0, 0%, 90%);
   --utrecht-separator-block-size: 4px;
@@ -413,7 +413,7 @@
   --utrecht-separator-padding-block-start: 12px;
   --utrecht-skip-link-font-weight: Bold;
   --utrecht-skip-link-font-family: 'Circular Std';
-  --utrecht-skip-link-font-size: 16px;
+  --utrecht-skip-link-font-size: 18px;
   --utrecht-skip-link-line-height: 150%;
   --utrecht-skip-link-min-block-size: 48px;
   --utrecht-skip-link-min-inline-size: 48px;
@@ -458,7 +458,7 @@
   --utrecht-table-header-cell-color: #333;
   --utrecht-table-header-cell-font-family: 'Circular Std';
   --utrecht-table-header-cell-font-weight: Bold;
-  --utrecht-table-header-cell-font-size: 16px;
+  --utrecht-table-header-cell-font-size: 18px;
   --utrecht-table-caption-line-height: 125%;
   --utrecht-table-caption-margin-block-end: 24px;
   --utrecht-table-caption-color: #333;
@@ -473,7 +473,7 @@
   --utrecht-table-data-cell-font-family: 'Circular Std';
   --utrecht-table-data-cell-font-weight: Regular;
   --utrecht-table-data-cell-line-height: 150%;
-  --utrecht-table-data-cell-font-size: 16px;
+  --utrecht-table-data-cell-font-size: 18px;
   --utrecht-table-header-border-block-end-width: 2px;
   --utrecht-table-header-border-block-end-color: hsl(0, 0%, 90%);
   --utrecht-table-header-background-color: transparent;
@@ -484,7 +484,7 @@
   --utrecht-table-row-border-block-end-color: hsl(0, 0%, 90%);
   --utrecht-table-row-background-color: transparent;
   --utrecht-table-footer-cell-font-weight: Bold;
-  --utrecht-table-footer-cell-font-size: 16px;
+  --utrecht-table-footer-cell-font-size: 18px;
   --utrecht-table-footer-cell-color: #333;
   --utrecht-table-footer-cell-font-family: 'Circular Std';
   --utrecht-table-footer-cell-line-height: 150%;
@@ -492,7 +492,7 @@
   --utrecht-table-container-box-inline-start-shadow: [object Object];
   --utrecht-textbox-border-radius: 0px;
   --utrecht-textbox-font-family: 'Circular Std';
-  --utrecht-textbox-font-size: 16px;
+  --utrecht-textbox-font-size: 18px;
   --utrecht-textbox-font-weight: Regular;
   --utrecht-textbox-line-height: 150%;
   --utrecht-textbox-max-inline-size: 400px;
@@ -557,12 +557,12 @@
   --utrecht-textarea-font-family: 'Circular Std';
   --utrecht-textarea-font-weight: Regular;
   --utrecht-textarea-line-height: 150%;
-  --utrecht-textarea-font-size: 16px;
+  --utrecht-textarea-font-size: 18px;
   --utrecht-unordered-list-color: #333;
   --utrecht-unordered-list-marker-border-color: #333;
   --utrecht-unordered-list-marker-color: #333;
   --utrecht-unordered-list-font-family: 'Circular Std';
-  --utrecht-unordered-list-font-size: 16px;
+  --utrecht-unordered-list-font-size: 18px;
   --utrecht-unordered-list-font-weight: Regular;
   --utrecht-unordered-list-line-height: 150%;
   --utrecht-unordered-list-padding-inline-start: 24px;
@@ -575,14 +575,14 @@
   --utrecht-document-inverse-color: #ffffff;
   --utrecht-document-subtle-color: hsl(0, 0%, 15%);
   --utrecht-document-font-family: 'Circular Std';
-  --utrecht-document-font-size: 16px;
+  --utrecht-document-font-size: 18px;
   --utrecht-document-font-weight: Regular;
   --utrecht-document-strong-font-weight: Bold;
   --utrecht-document-line-height: 150%;
   --utrecht-heading-color: #333;
   --utrecht-heading-font-family: 'Circular Std';
   --utrecht-heading-font-weight: Bold;
-  --utrecht-heading-bright: #4D8433;
+  --utrecht-heading-bright: #333;
   --utrecht-container-border-color: hsl(0, 0%, 90%);
   --utrecht-container-border-width: 1px;
   --utrecht-line-border-color: hsl(0, 0%, 90%);
@@ -666,7 +666,7 @@
   --todo-avatar-text-font-weight: Bold;
   --todo-avatar-text-line-height: 150%;
   --todo-avatar-text-text-transform: uppercase;
-  --todo-avatar-text-font-size: 16px;
+  --todo-avatar-text-font-size: 18px;
   --todo-avatar-border-width: 1px;
   --todo-avatar-hover-background-color: #006189;
   --todo-avatar-hover-border-color: transparent;
@@ -678,7 +678,7 @@
   --todo-backdrop-z-index: auto;
   --todo-backdrop-fade-in-animation-duration: 0.4s;
   --todo-breadcrumb-line-height: 150%;
-  --todo-breadcrumb-font-size: 16px;
+  --todo-breadcrumb-font-size: 18px;
   --todo-breadcrumb-link-icon-size: 24px;
   --todo-breadcrumb-link-icon-margin-inline: 4px;
   --todo-breadcrumb-link-padding-block-end: 12px;
@@ -725,7 +725,7 @@
   --todo-data-list-item-border-width: 1px;
   --todo-data-list-item-border-color: hsl(0, 0%, 90%);
   --todo-data-list-item-color: #333;
-  --todo-data-list-font-size: 16px;
+  --todo-data-list-font-size: 18px;
   --todo-data-list-line-height: 150%;
   --todo-data-list-item-action-row-padding-block-end: 12px;
   --todo-data-list-item-action-row-padding-block-start: 12px;
@@ -765,11 +765,11 @@
   --todo-form-field-error-message-icon-margin-inline-end: 8px;
   --todo-form-field-label-color: #333;
   --todo-form-field-label-font-family: 'Circular Std';
-  --todo-form-field-label-font-size: 16px;
+  --todo-form-field-label-font-size: 18px;
   --todo-form-field-label-font-weight: Bold;
   --todo-form-field-label-line-height: 150%;
   --todo-form-field-option-label-color: hsl(0, 0%, 5%);
-  --todo-form-field-option-label-font-size: 16px;
+  --todo-form-field-option-label-font-size: 18px;
   --todo-form-field-option-label-line-height: 150%;
   --todo-form-field-option-label-font-family: 'Circular Std';
   --todo-form-field-option-label-font-weight: Regular;
@@ -789,7 +789,7 @@
   --todo-modal-dialog-header-label-color: #333;
   --todo-modal-dialog-header-label-font-family: 'Circular Std';
   --todo-modal-dialog-header-label-font-weight: Bold;
-  --todo-modal-dialog-header-label-font-size: 16px;
+  --todo-modal-dialog-header-label-font-size: 18px;
   --todo-modal-dialog-header-label-line-height: 150%;
   --todo-modal-dialog-header-border-color: hsl(0, 0%, 90%);
   --todo-modal-dialog-header-column-gap: 8px;
@@ -868,7 +868,7 @@
   --todo-pagination-page-link-min-inline-size: 48px;
   --todo-pagination-font-family: 'Circular Std';
   --todo-pagination-line-height: 150%;
-  --todo-pagination-font-size: 16px;
+  --todo-pagination-font-size: 18px;
   --todo-pagination-ellipses-padding-block-end: 12px;
   --todo-pagination-ellipses-padding-block-start: 12px;
   --todo-pagination-ellipses-padding-inline-end: 4px;
@@ -891,7 +891,7 @@
   --todo-task-list-marker-not-checked-border-color: hsl(0, 0%, 20%);
   --todo-task-list-marker-border-radius: 0px;
   --todo-task-list-font-family: 'Circular Std';
-  --todo-task-list-font-size: 16px;
+  --todo-task-list-font-size: 18px;
   --todo-task-list-font-weight: Regular;
   --todo-task-list-line-height: 150%;
   --todo-task-list-item-column-gap: 12px;
@@ -906,7 +906,7 @@
   --denhaag-sidenav-link-line-height: 150%;
   --denhaag-sidenav-link-icon-size: 24px;
   --denhaag-sidenav-link-icon-margin-inline: 8px;
-  --denhaag-sidenav-link-font-size: 16px;
+  --denhaag-sidenav-link-font-size: 18px;
   --denhaag-sidenav-link-font-family: 'Circular Std';
   --denhaag-sidenav-link-font-weight: Regular;
   --denhaag-sidenav-link-current-font-weight: Bold;
@@ -923,7 +923,7 @@
   --denhaag-sidenav-link-padding-block-end: 12px;
   --denhaag-sidenav-link-text-decoration: none;
   --draad-typography-font-size-sm: 14px;
-  --draad-typography-font-size-md: 16px;
+  --draad-typography-font-size-md: 18px;
   --draad-typography-font-size-lg: 20px;
   --draad-typography-font-size-xl: 24px;
   --draad-typography-font-size-2xl: 32px;
