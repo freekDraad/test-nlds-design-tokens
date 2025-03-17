@@ -163,7 +163,7 @@
       },
       "border-radius": {
         "type": "borderRadius",
-        "value": "{draad.border-radius.md}"
+        "value": "{draad.border-radius.round}"
       },
       "border-width": {
         "type": "borderWidth",

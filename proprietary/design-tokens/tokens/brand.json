@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "\"Roboto\", sans-serif",
+          "value": "'Ubuntu', sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "\"Roboto\", sans-serif",
+          "value": "'Ubuntu', sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -129,33 +129,29 @@
       },
       "red": {
         "100": {
-          "value": "#E30613",
+          "value": "#F6777B",
           "type": "color"
         }
       },
       "yellow": {
         "100": {
-          "value": "#F9AE25",
-          "type": "color"
-        },
-        "200": {
-          "value": "#F9A60B",
+          "value": "#FFC348",
           "type": "color"
         }
       },
       "green": {
         "200": {
-          "value": "#4D8433",
+          "value": "#1CE3D4",
           "type": "color"
         }
       },
       "blue": {
         "200": {
-          "value": "#005DA4",
+          "value": "#0A9BFF",
           "type": "color"
         },
         "300": {
-          "value": "#2E4B71",
+          "value": "#1A1A37",
           "type": "color"
         }
       },
@@ -435,15 +431,15 @@
     },
     "border-radius": {
       "sm": {
-        "value": "0",
+        "value": "20px",
         "type": "borderRadius"
       },
       "md": {
-        "value": "0",
+        "value": "20px",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "0",
+        "value": "20px",
         "type": "borderRadius"
       },
       "round": {
