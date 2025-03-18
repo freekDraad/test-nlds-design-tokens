@@ -79,11 +79,11 @@
         "hover": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.gray.100}"
+            "value": "{draad.color.yellow.100}"
           },
           "border-color": {
             "type": "color",
-            "value": "{utrecht.interaction.hover.color}"
+            "value": "transparent"
           },
           "color": {
             "type": "color",
@@ -92,20 +92,20 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{draad.color.white}"
+          "value": "{draad.color.yellow.200}"
         },
         "border-color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "transparent"
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "#fff"
         },
         "disabled": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.gray.100}"
+            "value": "{draad.color.yellow.100}"
           },
           "border-color": {
             "type": "color",
@@ -119,7 +119,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{utrecht.focus.background-color}"
+            "value": "{draad.color.yellow.100}"
           },
           "border-color": {
             "type": "color",
@@ -127,7 +127,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.focus.color}"
+            "value": "{utrecht.interaction.hover.color}"
           }
         },
         "font-weight": {
@@ -137,15 +137,15 @@
         "active": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.gray.100}"
+            "value": "{draad.color.yellow.200}"
           },
           "border-color": {
             "type": "color",
-            "value": "{utrecht.interaction.active.color}"
+            "value": "transparent"
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.active.color}"
+            "value": "{utrecht.interaction.hover.color}"
           }
         }
       },
@@ -163,7 +163,7 @@
       },
       "border-radius": {
         "type": "borderRadius",
-        "value": "{draad.border-radius.round}"
+        "value": "{draad.border-radius.md}"
       },
       "border-width": {
         "type": "borderWidth",

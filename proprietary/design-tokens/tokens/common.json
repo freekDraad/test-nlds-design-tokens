@@ -105,7 +105,7 @@
       },
       "hover": {
         "color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.blue.300}",
           "type": "color"
         }
       }
@@ -351,11 +351,11 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{draad.color.yellow.100}",
+          "value": "{draad.color.yellow.200}",
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.yellow.100}",
+          "value": "{draad.color.yellow.200}",
           "type": "color"
         }
       }

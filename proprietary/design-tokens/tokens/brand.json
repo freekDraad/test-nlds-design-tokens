@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "'Ubuntu', sans-serif",
+          "value": "\"Poppins\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "'Ubuntu', sans-serif",
+          "value": "\"Poppins\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
           "type": "fontFamilies"
         }
       }
@@ -129,29 +129,37 @@
       },
       "red": {
         "100": {
-          "value": "#F6777B",
+          "value": "#E30613",
           "type": "color"
         }
       },
       "yellow": {
         "100": {
-          "value": "#FFC348",
+          "value": "#FDE1B0",
+          "type": "color"
+        },
+        "200": {
+          "value": "#FAAA1E",
           "type": "color"
         }
       },
       "green": {
         "200": {
-          "value": "#1CE3D4",
+          "value": "#4D8433",
           "type": "color"
         }
       },
       "blue": {
+        "100": {
+          "value": "#C9E3F7",
+          "type": "color"
+        },
         "200": {
-          "value": "#0A9BFF",
+          "value": "#288FDF",
           "type": "color"
         },
         "300": {
-          "value": "#1A1A37",
+          "value": "#00325F",
           "type": "color"
         }
       },
@@ -431,15 +439,15 @@
     },
     "border-radius": {
       "sm": {
-        "value": "20px",
+        "value": "5px",
         "type": "borderRadius"
       },
       "md": {
-        "value": "20px",
+        "value": "5px",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "20px",
+        "value": "5px",
         "type": "borderRadius"
       },
       "round": {
