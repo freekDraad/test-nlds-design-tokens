@@ -62,7 +62,7 @@
         },
         "font-family": {
           "primary": {
-            "value": "\"Poppins\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "value": "'Fedra Sans Std'",
             "type": "fontFamilies"
           },
           "secondary": {
@@ -1686,7 +1686,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{draad.color.yellow.100}"
+              "value": "{draad.color.blue.200}"
             },
             "border-color": {
               "type": "color",
@@ -1694,12 +1694,12 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.hover.color}"
+              "value": "#fff"
             }
           },
           "background-color": {
             "type": "color",
-            "value": "{draad.color.yellow.200}"
+            "value": "{draad.color.blue.300}"
           },
           "border-color": {
             "type": "color",
@@ -1712,7 +1712,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{draad.color.yellow.100}"
+              "value": "{draad.color.gray.100}"
             },
             "border-color": {
               "type": "color",
@@ -1726,7 +1726,7 @@
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "{draad.color.yellow.100}"
+              "value": "{draad.color.blue.300}"
             },
             "border-color": {
               "type": "color",
@@ -1734,7 +1734,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.hover.color}"
+              "value": "#fff"
             }
           },
           "font-weight": {
@@ -1744,7 +1744,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{draad.color.yellow.200}"
+              "value": "{draad.color.blue.300}"
             },
             "border-color": {
               "type": "color",
@@ -1752,7 +1752,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.hover.color}"
+              "value": "#fff"
             }
           }
         },
