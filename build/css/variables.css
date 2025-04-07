@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 18 Mar 2025 07:41:03 GMT
+ * Generated on Mon, 07 Apr 2025 06:27:24 GMT
  */
 
 :root {
@@ -40,7 +40,7 @@
   --utrecht-accordion-button-border-width: 1px;
   --utrecht-accordion-button-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --utrecht-accordion-button-font-weight: Bold;
-  --utrecht-alert-heading-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-alert-heading-font-family: 'Fedra Sans Std';
   --utrecht-alert-heading-font-weight: Bold;
   --utrecht-alert-heading-line-height: 125%;
   --utrecht-alert-heading-font-size: 24px;
@@ -81,7 +81,7 @@
   --utrecht-blockquote-attribution-font-weight: Regular;
   --utrecht-blockquote-attribution-padding-block-start: 12px;
   --utrecht-blockquote-attribution-color: hsl(0, 0%, 15%);
-  --utrecht-blockquote-content-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-blockquote-content-font-family: 'Fedra Sans Std';
   --utrecht-blockquote-content-line-height: 125%;
   --utrecht-blockquote-content-font-weight: Regular;
   --utrecht-blockquote-content-font-size: 24px;
@@ -114,22 +114,22 @@
   --utrecht-button-primary-action-active-background-color: #288FDF;
   --utrecht-button-primary-action-active-border-color: transparent;
   --utrecht-button-primary-action-active-color: #ffffff;
-  --utrecht-button-secondary-action-hover-background-color: #FDE1B0;
+  --utrecht-button-secondary-action-hover-background-color: #288FDF;
   --utrecht-button-secondary-action-hover-border-color: transparent;
-  --utrecht-button-secondary-action-hover-color: #00325F;
-  --utrecht-button-secondary-action-background-color: #FAAA1E;
+  --utrecht-button-secondary-action-hover-color: #fff;
+  --utrecht-button-secondary-action-background-color: #00325F;
   --utrecht-button-secondary-action-border-color: transparent;
   --utrecht-button-secondary-action-color: #fff;
-  --utrecht-button-secondary-action-disabled-background-color: #FDE1B0;
+  --utrecht-button-secondary-action-disabled-background-color: hsl(0, 0%, 90%);
   --utrecht-button-secondary-action-disabled-border-color: transparent;
   --utrecht-button-secondary-action-disabled-color: hsl(0, 0%, 20%);
-  --utrecht-button-secondary-action-focus-background-color: #FDE1B0;
+  --utrecht-button-secondary-action-focus-background-color: #00325F;
   --utrecht-button-secondary-action-focus-border-color: transparent;
-  --utrecht-button-secondary-action-focus-color: #00325F;
+  --utrecht-button-secondary-action-focus-color: #fff;
   --utrecht-button-secondary-action-font-weight: Bold;
-  --utrecht-button-secondary-action-active-background-color: #FAAA1E;
+  --utrecht-button-secondary-action-active-background-color: #00325F;
   --utrecht-button-secondary-action-active-border-color: transparent;
-  --utrecht-button-secondary-action-active-color: #00325F;
+  --utrecht-button-secondary-action-active-color: #fff;
   --utrecht-button-background-color: transparent;
   --utrecht-button-border-color: hsl(0, 0%, 0%);
   --utrecht-button-color: hsl(0, 0%, 0%);
@@ -264,32 +264,32 @@
   --utrecht-form-field-invalid-border-inline-start-width: 2px;
   --utrecht-form-field-invalid-padding-inline-start: 16px;
   --utrecht-heading-1-color: #00325F;
-  --utrecht-heading-1-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-heading-1-font-family: 'Fedra Sans Std';
   --utrecht-heading-1-font-weight: Bold;
   --utrecht-heading-1-line-height: 125%;
   --utrecht-heading-1-font-size: 40px;
   --utrecht-heading-2-color: #00325F;
-  --utrecht-heading-2-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-heading-2-font-family: 'Fedra Sans Std';
   --utrecht-heading-2-font-weight: Bold;
   --utrecht-heading-2-line-height: 125%;
   --utrecht-heading-2-font-size: 32px;
   --utrecht-heading-3-color: #00325F;
-  --utrecht-heading-3-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-heading-3-font-family: 'Fedra Sans Std';
   --utrecht-heading-3-font-weight: Bold;
   --utrecht-heading-3-line-height: 125%;
   --utrecht-heading-3-font-size: 24px;
   --utrecht-heading-4-color: #00325F;
-  --utrecht-heading-4-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-heading-4-font-family: 'Fedra Sans Std';
   --utrecht-heading-4-font-weight: Bold;
   --utrecht-heading-4-line-height: 150%;
   --utrecht-heading-4-font-size: 20px;
   --utrecht-heading-5-color: #00325F;
-  --utrecht-heading-5-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-heading-5-font-family: 'Fedra Sans Std';
   --utrecht-heading-5-font-weight: Bold;
   --utrecht-heading-5-line-height: 150%;
   --utrecht-heading-5-font-size: 16px;
   --utrecht-heading-6-color: #00325F;
-  --utrecht-heading-6-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-heading-6-font-family: 'Fedra Sans Std';
   --utrecht-heading-6-font-weight: Bold;
   --utrecht-heading-6-line-height: 150%;
   --utrecht-heading-6-font-size: 14px;
@@ -462,7 +462,7 @@
   --utrecht-table-caption-line-height: 125%;
   --utrecht-table-caption-margin-block-end: 24px;
   --utrecht-table-caption-color: #00325F;
-  --utrecht-table-caption-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-table-caption-font-family: 'Fedra Sans Std';
   --utrecht-table-caption-font-weight: Bold;
   --utrecht-table-caption-font-size: 24px;
   --utrecht-table-cell-padding-block-end: 12px;
@@ -580,7 +580,7 @@
   --utrecht-document-strong-font-weight: Bold;
   --utrecht-document-line-height: 150%;
   --utrecht-heading-color: #00325F;
-  --utrecht-heading-font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --utrecht-heading-font-family: 'Fedra Sans Std';
   --utrecht-heading-font-weight: Bold;
   --utrecht-heading-bright: #00325F;
   --utrecht-container-border-color: hsl(0, 0%, 90%);
@@ -935,7 +935,7 @@
   --draad-typography-line-height-lg: 200%;
   --draad-typography-font-weight-normal: Regular;
   --draad-typography-font-weight-bold: Bold;
-  --draad-typography-font-family-primary: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --draad-typography-font-family-primary: 'Fedra Sans Std';
   --draad-typography-font-family-secondary: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --draad-color-white: #ffffff;
   --draad-color-black: #333;
