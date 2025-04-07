@@ -1,136 +1,142 @@
 {
-  "utrecht": {
+  "tilburg": {
     "heading-1": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.bright}"
+        "value": "{tilburg.color.blue.400}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{tilburg.heading.font-family}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{tilburg.heading.font-weight}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.sm}",
+        "value": "{tilburg.typography.line-height.sm}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.3xl}",
+        "value": "{tilburg.typography.font-size.3xl}",
         "type": "fontSizes"
       }
     },
     "heading-2": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{tilburg.color.black-txt}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{tilburg.heading.font-family}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{tilburg.heading.font-weight}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.sm}",
+        "value": "{tilburg.typography.line-height.sm}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.2xl}",
+        "value": "{tilburg.typography.font-size.2xl}",
         "type": "fontSizes"
       }
     },
     "heading-3": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{tilburg.color.black-txt}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{tilburg.heading.font-family}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{tilburg.heading.font-weight}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.sm}",
+        "value": "{tilburg.typography.line-height.sm}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.xl}",
+        "value": "{tilburg.typography.font-size.xl}",
         "type": "fontSizes"
       }
     },
     "heading-4": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{tilburg.color.black-txt}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{tilburg.heading.font-family}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{tilburg.heading.font-weight}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.md}",
+        "value": "{tilburg.typography.line-height.md}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.lg}",
+        "value": "{tilburg.typography.font-size.lg}",
         "type": "fontSizes"
       }
     },
     "heading-5": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{tilburg.color.black-txt}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{tilburg.heading.font-family}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{tilburg.heading.font-weight}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.md}",
+        "value": "{tilburg.typography.line-height.md}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.md}",
+        "value": "{tilburg.typography.font-size.md}",
         "type": "fontSizes"
       }
     },
     "heading-6": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.heading.color}"
+        "value": "{tilburg.color.black-txt}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.heading.font-family}",
+        "value": "{tilburg.heading.font-family}",
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{utrecht.heading.font-weight}",
+        "value": "{tilburg.heading.font-weight}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{draad.typography.line-height.md}",
+        "value": "{tilburg.typography.line-height.md}",
         "type": "lineHeights"
       },
       "font-size": {
-        "value": "{draad.typography.font-size.sm}",
+        "value": "{tilburg.typography.font-size.sm}",
         "type": "fontSizes"
       }
     }
+  },
+  "header-uppercase": {
+    "value": {
+      "textCase": "{tilburg.avatar.text.text-transform}"
+    },
+    "type": "typography"
   }
 }

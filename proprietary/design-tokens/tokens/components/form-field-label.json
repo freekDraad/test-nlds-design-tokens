@@ -1,24 +1,24 @@
 {
-  "todo": {
+  "tilburg": {
     "form-field-label": {
       "color": {
-        "type": "color",
-        "value": "{utrecht.document.color}"
+        "value": "{tilburg.document.color}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.document.font-family}",
+        "value": "{tilburg.document.font-family}",
         "type": "fontFamilies"
       },
       "font-size": {
-        "value": "{utrecht.document.font-size}",
+        "value": "{tilburg.document.font-size}",
         "type": "fontSizes"
       },
       "font-weight": {
-        "value": "{utrecht.document.strong.font-weight}",
+        "value": "{tilburg.document.strong.font-weight}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{utrecht.document.line-height}",
+        "value": "{tilburg.document.line-height}",
         "type": "lineHeights"
       }
     }

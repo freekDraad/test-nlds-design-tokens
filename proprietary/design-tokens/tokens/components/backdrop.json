@@ -1,12 +1,12 @@
 {
-  "todo": {
+  "tilburg": {
     "backdrop": {
       "background-color": {
-        "value": "{draad.color.black}",
+        "value": "{tilburg.color.black}",
         "type": "color"
       },
       "color": {
-        "value": "{draad.color.white}",
+        "value": "{tilburg.color.white}",
         "type": "color"
       },
       "opacity": {

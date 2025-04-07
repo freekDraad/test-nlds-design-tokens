@@ -1,26 +1,26 @@
 {
-  "todo": {
+  "tilburg": {
     "toolbar-button": {
       "icon": {
         "margin-inline": {
-          "value": "{draad.space.text.beetle}",
+          "value": "{tilburg.space.text.beetle}",
           "type": "spacing"
         }
       },
       "padding-block-end": {
-        "value": "{draad.space.block.snail}",
+        "value": "{tilburg.space.block.snail}",
         "type": "spacing"
       },
       "padding-block-start": {
-        "value": "{draad.space.block.snail}",
+        "value": "{tilburg.space.block.snail}",
         "type": "spacing"
       },
       "padding-inline-end": {
-        "value": "{draad.space.inline.beetle}",
+        "value": "{tilburg.space.inline.beetle}",
         "type": "spacing"
       },
       "padding-inline-start": {
-        "value": "{draad.space.inline.beetle}",
+        "value": "{tilburg.space.inline.beetle}",
         "type": "spacing"
       }
     }

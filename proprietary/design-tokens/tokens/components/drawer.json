@@ -3,37 +3,37 @@
     "drawer": {
       "header": {
         "border-width": {
-          "type": "borderWidth",
-          "value": "{draad.border-width.sm}"
+          "value": "{tilburg.border-width.sm}",
+          "type": "borderWidth"
         },
         "label": {
           "color": {
-            "value": "{utrecht.document.color}",
+            "value": "{tilburg.document.color}",
             "type": "color"
           }
         },
         "padding-block-end": {
-          "value": "{draad.space.block.beetle}",
+          "value": "{tilburg.space.block.beetle}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.beetle}",
+          "value": "{tilburg.space.block.beetle}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{draad.space.inline.beetle}",
+          "value": "{tilburg.space.inline.beetle}",
           "type": "spacing"
         },
         "column-gap": {
-          "value": "{draad.space.column.snail}",
+          "value": "{tilburg.space.column.snail}",
           "type": "spacing"
         },
         "border-color": {
-          "value": "{utrecht.line.border-color}",
+          "value": "{tilburg.line.border-color}",
           "type": "color"
         },
         "background-color": {
@@ -42,32 +42,32 @@
         }
       },
       "border-radius": {
-        "type": "borderRadius",
-        "value": "0px"
+        "value": "0px",
+        "type": "borderRadius"
       },
       "footer": {
         "border-width": {
-          "type": "borderWidth",
-          "value": "{draad.border-width.sm}"
+          "value": "{tilburg.border-width.sm}",
+          "type": "borderWidth"
         },
         "padding-block-end": {
-          "value": "{draad.space.block.mouse}",
+          "value": "{tilburg.space.block.mouse}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.mouse}",
+          "value": "{tilburg.space.block.mouse}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         },
         "border-color": {
-          "value": "{utrecht.line.border-color}",
+          "value": "{tilburg.line.border-color}",
           "type": "color"
         },
         "background-color": {
@@ -76,37 +76,37 @@
         }
       },
       "border-width": {
-        "type": "borderWidth",
-        "value": "{draad.border-width.sm}"
+        "value": "{tilburg.border-width.sm}",
+        "type": "borderWidth"
       },
       "content": {
         "padding-block-end": {
-          "value": "{draad.space.block.rabbit}",
+          "value": "{tilburg.space.block.rabbit}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.rabbit}",
+          "value": "{tilburg.space.block.rabbit}",
           "type": "spacing"
         },
         "padding-inline": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         }
       },
       "background-color": {
-        "value": "{utrecht.document.background-color}",
+        "value": "{tilburg.document.background-color}",
         "type": "color"
       },
       "border-color": {
-        "value": "{utrecht.container.border-color}",
+        "value": "{tilburg.container.border-color}",
         "type": "color"
       },
       "color": {
-        "value": "{utrecht.document.color}",
+        "value": "{tilburg.document.color}",
         "type": "color"
       },
       "box-shadow": {
-        "value": "{draad.box-shadow.lg}",
+        "value": "{tilburg.box-shadow.lg}",
         "type": "boxShadow"
       }
     }
@@ -116,19 +116,27 @@
       "header": {
         "label": {
           "font-family": {
-            "value": "{utrecht.document.font-family}",
+            "value": "{tilburg.document.font-family}",
             "type": "fontFamilies"
-          },
+          }
+        }
+      }
+    }
+  },
+  "tilburg": {
+    "drawer": {
+      "header": {
+        "label": {
           "font-size": {
-            "value": "{utrecht.document.font-size}",
+            "value": "{tilburg.document.font-size}",
             "type": "fontSizes"
           },
           "font-weight": {
-            "value": "{utrecht.document.strong.font-weight}",
+            "value": "{tilburg.document.strong.font-weight}",
             "type": "fontWeights"
           },
           "line-height": {
-            "value": "{utrecht.document.line-height}",
+            "value": "{tilburg.document.line-height}",
             "type": "lineHeights"
           }
         }

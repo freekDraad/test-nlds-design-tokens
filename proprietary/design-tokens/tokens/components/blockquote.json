@@ -1,60 +1,60 @@
 {
-  "utrecht": {
+  "tilburg": {
     "blockquote": {
       "attribution": {
         "font-size": {
-          "value": "{draad.typography.font-size.sm}",
+          "value": "{tilburg.typography.font-size.sm}",
           "type": "fontSizes"
         },
         "font-family": {
-          "value": "{utrecht.document.font-family}",
+          "value": "{tilburg.document.font-family}",
           "type": "fontFamilies"
         },
         "line-height": {
-          "value": "{draad.typography.line-height.md}",
+          "value": "{tilburg.typography.line-height.md}",
           "type": "lineHeights"
         },
         "font-weight": {
-          "value": "{utrecht.document.font-weight}",
+          "value": "{tilburg.document.font-weight}",
           "type": "fontWeights"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.snail}",
+          "value": "{tilburg.space.block.snail}",
           "type": "spacing"
         },
         "color": {
-          "value": "{utrecht.document.subtle.color}",
+          "value": "{tilburg.document.subtle.color}",
           "type": "color"
         }
       },
       "content": {
         "font-family": {
-          "value": "{utrecht.heading.font-family}",
+          "value": "{tilburg.heading.font-family}",
           "type": "fontFamilies"
         },
         "line-height": {
-          "value": "{draad.typography.line-height.sm}",
+          "value": "{tilburg.typography.line-height.sm}",
           "type": "lineHeights"
         },
         "font-weight": {
-          "value": "{utrecht.document.font-weight}",
+          "value": "{tilburg.document.font-weight}",
           "type": "fontWeights"
         },
         "font-size": {
-          "value": "{draad.typography.font-size.xl}",
+          "value": "{tilburg.typography.font-size.xl}",
           "type": "fontSizes"
         },
         "color": {
-          "value": "{utrecht.document.color}",
+          "value": "{tilburg.document.color}",
           "type": "color"
         }
       },
       "padding-block-end": {
-        "value": "{draad.space.block.snail}",
+        "value": "{tilburg.space.block.snail}",
         "type": "spacing"
       },
       "padding-block-start": {
-        "value": "{draad.space.block.snail}",
+        "value": "{tilburg.space.block.snail}",
         "type": "spacing"
       },
       "padding-inline-end": {

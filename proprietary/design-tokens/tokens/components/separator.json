@@ -1,20 +1,20 @@
 {
-  "utrecht": {
+  "tilburg": {
     "separator": {
       "color": {
-        "value": "{utrecht.line.border-color}",
+        "value": "{tilburg.line.border-color}",
         "type": "color"
       },
       "block-size": {
-        "value": "{draad.size.4xs}",
+        "value": "{tilburg.size.4xs}",
         "type": "sizing"
       },
       "padding-block-end": {
-        "value": "{draad.space.block.snail}",
+        "value": "{tilburg.space.block.snail}",
         "type": "spacing"
       },
       "padding-block-start": {
-        "value": "{draad.space.block.snail}",
+        "value": "{tilburg.space.block.snail}",
         "type": "spacing"
       }
     }

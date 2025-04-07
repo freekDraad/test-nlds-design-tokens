@@ -1,29 +1,29 @@
 {
-  "todo": {
+  "tilburg": {
     "modal-dialog": {
       "border-radius": {
-        "value": "{draad.border-radius.lg}",
+        "value": "{tilburg.border-radius.lg}",
         "type": "borderRadius"
       },
       "box-shadow": {
-        "value": "{draad.box-shadow.lg}",
+        "value": "{tilburg.box-shadow.lg}",
         "type": "boxShadow"
       },
       "header": {
         "padding-block-start": {
-          "value": "{draad.space.block.beetle}",
+          "value": "{tilburg.space.block.beetle}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{draad.space.inline.beetle}",
+          "value": "{tilburg.space.inline.beetle}",
           "type": "spacing"
         },
         "padding-block-end": {
-          "value": "{draad.space.block.beetle}",
+          "value": "{tilburg.space.block.beetle}",
           "type": "spacing"
         },
         "background-color": {
@@ -32,36 +32,36 @@
         },
         "label": {
           "color": {
-            "value": "{utrecht.document.color}",
+            "value": "{tilburg.document.color}",
             "type": "color"
           },
           "font-family": {
-            "value": "{utrecht.document.font-family}",
+            "value": "{tilburg.document.font-family}",
             "type": "fontFamilies"
           },
           "font-weight": {
-            "value": "{utrecht.document.strong.font-weight}",
+            "value": "{tilburg.document.strong.font-weight}",
             "type": "fontWeights"
           },
           "font-size": {
-            "value": "{utrecht.document.font-size}",
+            "value": "{tilburg.document.font-size}",
             "type": "fontSizes"
           },
           "line-height": {
-            "value": "{utrecht.document.line-height}",
+            "value": "{tilburg.document.line-height}",
             "type": "lineHeights"
           }
         },
         "border-color": {
-          "value": "{utrecht.line.border-color}",
+          "value": "{tilburg.line.border-color}",
           "type": "color"
         },
         "column-gap": {
-          "value": "{draad.space.column.snail}",
+          "value": "{tilburg.space.column.snail}",
           "type": "spacing"
         },
         "border-width": {
-          "value": "{draad.border-width.sm}",
+          "value": "{tilburg.border-width.sm}",
           "type": "borderWidth"
         }
       },
@@ -70,28 +70,28 @@
         "type": "color"
       },
       "background-color": {
-        "value": "{utrecht.document.background-color}",
+        "value": "{tilburg.document.background-color}",
         "type": "color"
       },
       "color": {
-        "value": "{utrecht.document.color}",
+        "value": "{tilburg.document.color}",
         "type": "color"
       },
       "footer": {
         "padding-block-start": {
-          "value": "{draad.space.block.mouse}",
+          "value": "{tilburg.space.block.mouse}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         },
         "padding-block-end": {
-          "value": "{draad.space.block.mouse}",
+          "value": "{tilburg.space.block.mouse}",
           "type": "spacing"
         },
         "background-color": {
@@ -103,26 +103,26 @@
           "type": "color"
         },
         "border-width": {
-          "value": "{draad.border-width.sm}",
+          "value": "{tilburg.border-width.sm}",
           "type": "borderWidth"
         }
       },
       "content": {
         "padding-block-start": {
-          "value": "{draad.space.block.rabbit}",
+          "value": "{tilburg.space.block.rabbit}",
           "type": "spacing"
         },
         "padding-block-end": {
-          "value": "{draad.space.block.rabbit}",
+          "value": "{tilburg.space.block.rabbit}",
           "type": "spacing"
         },
         "padding-inline": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         }
       },
       "border-width": {
-        "value": "{draad.border-width.sm}",
+        "value": "{tilburg.border-width.sm}",
         "type": "borderWidth"
       }
     }

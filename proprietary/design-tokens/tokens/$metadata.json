@@ -41,7 +41,6 @@
     "components/textarea",
     "components/text-input",
     "components/toolbar-button",
-    "components/unordered-list",
-    "radio-button"
+    "components/unordered-list"
   ]
 }

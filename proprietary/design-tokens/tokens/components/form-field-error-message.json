@@ -1,38 +1,34 @@
 {
-  "todo": {
+  "tilburg": {
     "form-field-error-message": {
       "icon": {
         "size": {
-          "type": "sizing",
-          "value": "{utrecht.icon.functional.size}"
+          "value": "{tilburg.icon.functional.size}",
+          "type": "sizing"
         },
         "margin-inline-end": {
-          "value": "{draad.space.text.mouse}",
+          "value": "{tilburg.space.text.mouse}",
           "type": "spacing"
         }
-      }
-    }
-  },
-  "utrecht": {
-    "form-field-error-message": {
+      },
       "color": {
-        "type": "color",
-        "value": "{utrecht.feedback.negative.color}"
+        "value": "{tilburg.feedback.negative.color}",
+        "type": "color"
       },
       "font-family": {
-        "value": "{utrecht.document.font-family}",
+        "value": "{tilburg.document.font-family}",
         "type": "fontFamilies"
       },
       "font-size": {
-        "value": "{utrecht.document.font-size}",
+        "value": "{tilburg.document.font-size}",
         "type": "fontSizes"
       },
       "font-weight": {
-        "value": "{utrecht.document.font-weight}",
+        "value": "{tilburg.document.font-weight}",
         "type": "fontWeights"
       },
       "line-height": {
-        "value": "{utrecht.document.line-height}",
+        "value": "{tilburg.document.line-height}",
         "type": "lineHeights"
       }
     }

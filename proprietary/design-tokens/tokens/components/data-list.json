@@ -1,22 +1,22 @@
 {
-  "todo": {
+  "tilburg": {
     "data-list": {
       "font-family": {
-        "value": "{utrecht.document.font-family}",
+        "value": "{tilburg.document.font-family}",
         "type": "fontFamilies"
       },
       "item-value": {
         "font-weight": {
-          "value": "{utrecht.document.font-weight}",
+          "value": "{tilburg.document.font-weight}",
           "type": "fontWeights"
         },
         "row": {
           "padding-block-end": {
-            "value": "{draad.space.block.snail}",
+            "value": "{tilburg.space.block.snail}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{draad.space.block.snail}",
+            "value": "{tilburg.space.block.snail}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -29,11 +29,11 @@
           }
         },
         "padding-block-end": {
-          "value": "{draad.space.block.snail}",
+          "value": "{tilburg.space.block.snail}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.ant}",
+          "value": "{tilburg.space.block.ant}",
           "type": "spacing"
         },
         "padding-inline-end": {
@@ -47,20 +47,20 @@
       },
       "item-key": {
         "font-weight": {
-          "value": "{utrecht.document.strong.font-weight}",
+          "value": "{tilburg.document.strong.font-weight}",
           "type": "fontWeights"
         },
         "row": {
           "padding-block-end": {
-            "value": "{draad.space.block.snail}",
+            "value": "{tilburg.space.block.snail}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{draad.space.block.snail}",
+            "value": "{tilburg.space.block.snail}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{draad.space.inline.mouse}",
+            "value": "{tilburg.space.inline.mouse}",
             "type": "spacing"
           },
           "padding-inline-start": {
@@ -69,11 +69,11 @@
           }
         },
         "padding-block-end": {
-          "value": "{draad.space.block.ant}",
+          "value": "{tilburg.space.block.ant}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.snail}",
+          "value": "{tilburg.space.block.snail}",
           "type": "spacing"
         },
         "padding-inline-end": {
@@ -87,34 +87,34 @@
       },
       "item": {
         "border-width": {
-          "type": "borderWidth",
-          "value": "{draad.border-width.sm}"
+          "value": "{tilburg.border-width.sm}",
+          "type": "borderWidth"
         },
         "border-color": {
-          "value": "{utrecht.line.border-color}",
+          "value": "{tilburg.line.border-color}",
           "type": "color"
         },
         "color": {
-          "value": "{utrecht.document.color}",
+          "value": "{tilburg.document.color}",
           "type": "color"
         }
       },
       "font-size": {
-        "value": "{utrecht.document.font-size}",
+        "value": "{tilburg.document.font-size}",
         "type": "fontSizes"
       },
       "line-height": {
-        "value": "{utrecht.document.line-height}",
+        "value": "{tilburg.document.line-height}",
         "type": "lineHeights"
       },
       "item-action": {
         "row": {
           "padding-block-end": {
-            "value": "{draad.space.block.snail}",
+            "value": "{tilburg.space.block.snail}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{draad.space.block.snail}",
+            "value": "{tilburg.space.block.snail}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -122,20 +122,20 @@
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{draad.space.inline.mouse}",
+            "value": "{tilburg.space.inline.mouse}",
             "type": "spacing"
           }
         },
         "padding-block-end": {
-          "value": "{draad.space.block.snail}",
+          "value": "{tilburg.space.block.snail}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{draad.space.block.snail}",
+          "value": "{tilburg.space.block.snail}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{draad.space.inline.mouse}",
+          "value": "{tilburg.space.inline.mouse}",
           "type": "spacing"
         },
         "padding-inline-start": {

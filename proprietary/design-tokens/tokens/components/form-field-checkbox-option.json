@@ -1,8 +1,8 @@
 {
-  "todo": {
+  "tilburg": {
     "form-field-checkbox-option": {
       "column-gap": {
-        "value": "{draad.space.column.snail}",
+        "value": "{tilburg.space.column.snail}",
         "type": "spacing"
       }
     }
