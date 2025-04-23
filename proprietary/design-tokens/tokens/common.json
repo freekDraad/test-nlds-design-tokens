@@ -56,7 +56,7 @@
     },
     "heading": {
       "color": {
-        "value": "{draad.color.blue.300}",
+        "value": "{draad.color.blue.200}",
         "type": "color"
       },
       "font-family": {
@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "{draad.color.blue.300}",
+        "value": "{draad.color.blue.200}",
         "type": "color"
       }
     },
@@ -347,7 +347,7 @@
       },
       "warning": {
         "background-color": {
-          "value": "{draad.color.yellow.100}",
+          "value": "{draad.color.yellow.200}",
           "type": "color"
         },
         "border-color": {

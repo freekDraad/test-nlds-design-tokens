@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "'Fedra Sans Std'",
+          "value": "'Karbon', sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "\"Poppins\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "value": "'Karbon', sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -129,37 +129,33 @@
       },
       "red": {
         "100": {
-          "value": "#E30613",
+          "value": "#D1203D",
           "type": "color"
         }
       },
       "yellow": {
-        "100": {
-          "value": "#FDE1B0",
-          "type": "color"
-        },
         "200": {
-          "value": "#FAAA1E",
+          "value": "#EFCC36",
           "type": "color"
         }
       },
       "green": {
         "200": {
-          "value": "#4D8433",
+          "value": "#00804d",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#C9E3F7",
+          "value": "#E5EFF8",
           "type": "color"
         },
         "200": {
-          "value": "#288FDF",
+          "value": "#281f6b",
           "type": "color"
         },
         "300": {
-          "value": "#00325F",
+          "value": "#16113b",
           "type": "color"
         }
       },
