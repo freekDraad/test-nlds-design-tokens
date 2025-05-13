@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "'Karbon', sans-serif",
+          "value": "\"Source Sans 3\", sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "'Karbon', sans-serif",
+          "value": "\"Source Sans 3\", sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -76,7 +76,7 @@
         "type": "color"
       },
       "black": {
-        "value": "#333",
+        "value": "#000",
         "type": "color"
       },
       "gray": {
@@ -135,7 +135,7 @@
       },
       "yellow": {
         "200": {
-          "value": "#FF9814",
+          "value": "#E18C07",
           "type": "color"
         }
       },
@@ -147,15 +147,7 @@
       },
       "blue": {
         "100": {
-          "value": "#CAE8F9",
-          "type": "color"
-        },
-        "200": {
-          "value": "#009FE3",
-          "type": "color"
-        },
-        "300": {
-          "value": "#003A78",
+          "value": "#44637A",
           "type": "color"
         }
       },
