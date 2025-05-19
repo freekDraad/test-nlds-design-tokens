@@ -135,19 +135,27 @@
       },
       "yellow": {
         "200": {
-          "value": "#E18C07",
+          "value": "#DB7500",
+          "type": "color"
+        },
+        "300": {
+          "value": "hsl(32, 100%, 30%)",
           "type": "color"
         }
       },
       "green": {
         "200": {
-          "value": "#19b394",
+          "value": "#007C32",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#44637A",
+          "value": "#098095",
+          "type": "color"
+        },
+        "200": {
+          "value": "#013056",
           "type": "color"
         }
       },
