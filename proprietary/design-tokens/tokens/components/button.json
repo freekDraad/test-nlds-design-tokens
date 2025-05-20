@@ -13,7 +13,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.blue.300}"
+            "value": "{draad.color.white}"
           }
         },
         "background-color": {
@@ -45,7 +45,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.blue.100}"
+            "value": "{draad.color.yellow.200}"
           },
           "border-color": {
             "value": "transparent",
@@ -53,7 +53,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.blue.300}"
+            "value": "{draad.color.white}"
           }
         },
         "font-weight": {
@@ -79,28 +79,28 @@
         "hover": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.blue.100}"
+            "value": "{draad.color.green.200}"
           },
           "border-color": {
             "type": "color",
-            "value": "{draad.color.blue.300}"
+            "value": "{draad.color.green.200}"
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.blue.300}"
+            "value": "{draad.color.white}"
           }
         },
         "background-color": {
           "type": "color",
-          "value": "{draad.color.blue.100}"
+          "value": "{draad.color.white}"
         },
         "border-color": {
           "type": "color",
-          "value": "{draad.color.blue.300}"
+          "value": "#b6bac2"
         },
         "color": {
           "type": "color",
-          "value": "{draad.color.blue.300}"
+          "value": "{draad.color.black}"
         },
         "disabled": {
           "background-color": {
@@ -119,7 +119,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.blue.300}"
+            "value": "{draad.color.green.200}"
           },
           "border-color": {
             "type": "color",
@@ -137,7 +137,7 @@
         "active": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.blue.300}"
+            "value": "{draad.color.green.200}"
           },
           "border-color": {
             "type": "color",

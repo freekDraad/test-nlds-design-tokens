@@ -7,11 +7,11 @@
       },
       "color": {
         "type": "color",
-        "value": "{utrecht.interaction.color}"
+        "value": "{draad.color.green.200}"
       },
       "text-decoration-color": {
         "type": "color",
-        "value": "{utrecht.interaction.color}"
+        "value": "{draad.color.green.200}"
       },
       "active": {
         "color": {
@@ -30,7 +30,7 @@
         },
         "color": {
           "type": "color",
-          "value": "{draad.color.blue.200}"
+          "value": "{draad.color.green.200}"
         },
         "text-decoration": {
           "value": "none",
