@@ -135,19 +135,19 @@
       },
       "yellow": {
         "200": {
-          "value": "#C95100",
+          "value": "#FFCC02",
           "type": "color"
         }
       },
       "green": {
         "200": {
-          "value": "#0E7A3D",
+          "value": "#A4C407",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#58B3D4",
+          "value": "#003A80",
           "type": "color"
         }
       },
