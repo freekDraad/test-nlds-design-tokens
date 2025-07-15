@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "\"Playfair Display\", serif",
+          "value": "\"Inter\", sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "'Karbon', sans-serif",
+          "value": "\"Inter\", sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -119,11 +119,11 @@
       },
       "pink": {
         "100": {
-          "value": "#F8C6DE",
+          "value": "#852F93",
           "type": "color"
         },
         "200": {
-          "value": "#7C397E",
+          "value": "#62226D",
           "type": "color"
         }
       },
@@ -134,14 +134,18 @@
         }
       },
       "yellow": {
+        "100": {
+          "value": "#F9AF24",
+          "type": "color"
+        },
         "200": {
-          "value": "#FFCC02",
+          "value": "#F8A60B",
           "type": "color"
         }
       },
       "green": {
         "200": {
-          "value": "#A4C407",
+          "value": "#378171",
           "type": "color"
         }
       },
