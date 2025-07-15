@@ -7,11 +7,11 @@
       },
       "color": {
         "type": "color",
-        "value": "{draad.color.pink.100}"
+        "value": "{draad.color.blue.100}"
       },
       "text-decoration-color": {
         "type": "color",
-        "value": "{draad.color.pink.100}"
+        "value": "{draad.color.blue.100}"
       },
       "active": {
         "color": {
@@ -30,7 +30,7 @@
         },
         "color": {
           "type": "color",
-          "value": "{draad.color.pink.100}"
+          "value": "{draad.color.blue.100}"
         },
         "text-decoration": {
           "value": "none",

@@ -12,12 +12,12 @@
         "type": "color"
       },
       "color": {
-        "value": "rgb(51, 51, 51)",
+        "value": "#4f4f4f",
         "type": "color"
       },
       "inverse": {
         "background-color": {
-          "value": "rgb(51, 51, 51)",
+          "value": "#333",
           "type": "color"
         },
         "color": {
@@ -56,7 +56,7 @@
     },
     "heading": {
       "color": {
-        "value": "rgb(51, 51, 51)",
+        "value": "#4f4f4f",
         "type": "color"
       },
       "font-family": {
@@ -68,7 +68,7 @@
         "type": "fontWeights"
       },
       "bright": {
-        "value": "rgb(51, 51, 51)",
+        "value": "#4f4f4f",
         "type": "color"
       }
     },
@@ -94,25 +94,25 @@
     },
     "interaction": {
       "color": {
-        "value": "{draad.color.pink.100}",
+        "value": "{draad.color.blue.100}",
         "type": "color"
       },
       "active": {
         "color": {
-          "value": "{draad.color.pink.100}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         }
       },
       "hover": {
         "color": {
-          "value": "{draad.color.pink.100}",
+          "value": "#EBEBEB",
           "type": "color"
         }
       }
     },
     "focus": {
       "background-color": {
-        "value": "{draad.color.pink.100}",
+        "value": "{draad.color.blue.100}",
         "type": "color"
       },
       "color": {
@@ -120,7 +120,7 @@
         "type": "color"
       },
       "outline-color": {
-        "value": "{draad.color.pink.100}",
+        "value": "{draad.color.blue.100}",
         "type": "color"
       },
       "inverse": {

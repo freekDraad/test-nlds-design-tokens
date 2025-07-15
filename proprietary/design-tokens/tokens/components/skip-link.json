@@ -44,7 +44,7 @@
       "focus": {
         "background-color": {
           "type": "color",
-          "value": "{draad.color.pink.100}"
+          "value": "{utrecht.focus.background-color}"
         },
         "border-color": {
           "value": "transparent",

@@ -63,7 +63,7 @@
       },
       "checked": {
         "background-color": {
-          "value": "{draad.color.pink.100}",
+          "value": "{utrecht.form-control.accent-color}",
           "type": "color"
         },
         "border-color": {
@@ -116,7 +116,7 @@
             "type": "borderWidth"
           },
           "background-color": {
-            "value": "{draad.color.pink.200}",
+            "value": "{utrecht.form-control.hover.accent-color}",
             "type": "color"
           },
           "border-color": {
@@ -134,7 +134,7 @@
             "type": "borderWidth"
           },
           "background-color": {
-            "value": "{draad.color.pink.200}",
+            "value": "{utrecht.form-control.active.accent-color}",
             "type": "color"
           },
           "border-color": {
@@ -149,7 +149,7 @@
       },
       "indeterminate": {
         "background-color": {
-          "value": "{draad.color.pink.100}",
+          "value": "{utrecht.form-control.accent-color}",
           "type": "color"
         },
         "border-color": {
@@ -180,7 +180,7 @@
         },
         "active": {
           "background-color": {
-            "value": "{draad.color.pink.200}",
+            "value": "{utrecht.form-control.active.accent-color}",
             "type": "color"
           },
           "border-color": {
@@ -198,7 +198,7 @@
         },
         "hover": {
           "background-color": {
-            "value": "{draad.color.pink.200}",
+            "value": "{utrecht.form-control.hover.accent-color}",
             "type": "color"
           },
           "border-color": {

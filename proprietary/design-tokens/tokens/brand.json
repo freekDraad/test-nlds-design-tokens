@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "\"Inter\", sans-serif",
+          "value": "\"Playfair Display\", serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "\"Inter\", sans-serif",
+          "value": "'Karbon', sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -119,11 +119,11 @@
       },
       "pink": {
         "100": {
-          "value": "#852F93",
+          "value": "#F8C6DE",
           "type": "color"
         },
         "200": {
-          "value": "#62226D",
+          "value": "#7C397E",
           "type": "color"
         }
       },
@@ -134,24 +134,20 @@
         }
       },
       "yellow": {
-        "100": {
-          "value": "#F9AF24",
-          "type": "color"
-        },
         "200": {
-          "value": "#F8A60B",
+          "value": "#FD0",
           "type": "color"
         }
       },
       "green": {
         "200": {
-          "value": "#378171",
+          "value": "#48A842",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#003A80",
+          "value": "#1B143C",
           "type": "color"
         }
       },
@@ -431,15 +427,15 @@
     },
     "border-radius": {
       "sm": {
-        "value": "5px",
+        "value": "0px",
         "type": "borderRadius"
       },
       "md": {
-        "value": "5px",
+        "value": "0px",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "5px",
+        "value": "0px",
         "type": "borderRadius"
       },
       "round": {

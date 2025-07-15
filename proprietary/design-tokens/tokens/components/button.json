@@ -13,7 +13,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.white}"
+            "value": "{draad.color.blue.100}"
           }
         },
         "background-color": {
@@ -45,7 +45,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.pink.100}"
+            "value": "{draad.color.blue.100}"
           },
           "border-color": {
             "value": "transparent",
@@ -79,15 +79,15 @@
         "hover": {
           "background-color": {
             "type": "color",
-            "value": "#F2F2F3"
+            "value": "#fff"
           },
           "border-color": {
             "type": "color",
-            "value": "{draad.color.pink.100}"
+            "value": "{utrecht.interaction.hover.color}"
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.pink.100}"
+            "value": "{draad.color.blue.100}"
           }
         },
         "background-color": {
@@ -96,11 +96,11 @@
         },
         "border-color": {
           "type": "color",
-          "value": "{draad.color.pink.100}"
+          "value": "{draad.color.blue.100}"
         },
         "color": {
           "type": "color",
-          "value": "{draad.color.pink.100}"
+          "value": "{draad.color.blue.100}"
         },
         "disabled": {
           "background-color": {
@@ -119,15 +119,15 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.pink.100}"
+            "value": "#fff"
           },
           "border-color": {
             "type": "color",
-            "value": "transparent"
+            "value": "{draad.color.blue.100}"
           },
           "color": {
             "type": "color",
-            "value": "#fff"
+            "value": "{draad.color.blue.100}"
           }
         },
         "font-weight": {
@@ -137,15 +137,15 @@
         "active": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.pink.100}"
+            "value": "#fff"
           },
           "border-color": {
             "type": "color",
-            "value": "transparent"
+            "value": "{draad.color.blue.100}"
           },
           "color": {
             "type": "color",
-            "value": "#fff"
+            "value": "{draad.color.blue.100}"
           }
         }
       },
