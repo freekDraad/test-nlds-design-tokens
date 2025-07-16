@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "\"Playfair Display\", serif",
+          "value": "'Fedra Sans', sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "'Karbon', sans-serif",
+          "value": "'Fedra Sans', sans-serif",
           "type": "fontFamilies"
         }
       }

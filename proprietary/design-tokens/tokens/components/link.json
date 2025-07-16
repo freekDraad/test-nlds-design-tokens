@@ -44,7 +44,7 @@
       "hover": {
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.hover.color}"
+          "value": "{utrecht.interaction.active.color}"
         },
         "text-decoration": {
           "value": "none",
