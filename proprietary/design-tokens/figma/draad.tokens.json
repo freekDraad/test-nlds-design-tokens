@@ -62,11 +62,11 @@
         },
         "font-family": {
           "primary": {
-            "value": "'Fedra Sans', sans-serif",
+            "value": "\"Open Sans\", sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "'Fedra Sans', sans-serif",
+            "value": "\"Open Sans\", sans-serif",
             "type": "fontFamilies"
           }
         }
@@ -130,7 +130,7 @@
         },
         "red": {
           "100": {
-            "value": "#E60B3E",
+            "value": "#d7003c",
             "type": "color"
           }
         },
@@ -148,7 +148,7 @@
         },
         "blue": {
           "100": {
-            "value": "#1B143C",
+            "value": "#1268A2",
             "type": "color"
           }
         },
@@ -581,7 +581,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{draad.color.blue.100}",
+          "value": "#575756",
           "type": "color"
         },
         "inverse": {
@@ -637,7 +637,7 @@
           "type": "fontWeights"
         },
         "bright": {
-          "value": "{draad.color.blue.100}",
+          "value": "{draad.color.red.100}",
           "type": "color"
         }
       },
@@ -674,7 +674,7 @@
         },
         "hover": {
           "color": {
-            "value": "#EBEBEB",
+            "value": "{draad.color.red.100}",
             "type": "color"
           }
         }
@@ -792,7 +792,7 @@
         },
         "hover": {
           "accent-color": {
-            "value": "{utrecht.interaction.hover.color}",
+            "value": "{draad.color.blue.100}",
             "type": "color"
           },
           "background-color": {
