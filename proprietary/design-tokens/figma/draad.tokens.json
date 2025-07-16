@@ -62,11 +62,11 @@
         },
         "font-family": {
           "primary": {
-            "value": "\"Playfair Display\", serif",
+            "value": "'Fedra Sans', sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "'Karbon', sans-serif",
+            "value": "'Fedra Sans', sans-serif",
             "type": "fontFamilies"
           }
         }
@@ -581,7 +581,7 @@
           "type": "color"
         },
         "color": {
-          "value": "#4f4f4f",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "inverse": {
@@ -625,7 +625,7 @@
       },
       "heading": {
         "color": {
-          "value": "#4f4f4f",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "font-family": {
@@ -637,7 +637,7 @@
           "type": "fontWeights"
         },
         "bright": {
-          "value": "#4f4f4f",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         }
       },
@@ -2981,7 +2981,7 @@
         "hover": {
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.hover.color}"
+            "value": "{utrecht.interaction.active.color}"
           },
           "text-decoration": {
             "value": "none",
