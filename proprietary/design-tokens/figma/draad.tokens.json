@@ -136,27 +136,27 @@
         },
         "yellow": {
           "200": {
-            "value": "#DB7500",
+            "value": "#FFF4EB",
             "type": "color"
           },
           "300": {
-            "value": "hsl(32, 100%, 30%)",
+            "value": "#FF7300",
             "type": "color"
           }
         },
         "green": {
           "200": {
-            "value": "#007C32",
+            "value": "#097B09",
             "type": "color"
           }
         },
         "blue": {
           "100": {
-            "value": "#098095",
+            "value": "#00158A",
             "type": "color"
           },
           "200": {
-            "value": "#013056",
+            "value": "#001170",
             "type": "color"
           }
         },
@@ -671,25 +671,25 @@
       },
       "interaction": {
         "color": {
-          "value": "{draad.color.yellow.200}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "active": {
           "color": {
-            "value": "{draad.color.yellow.200}",
+            "value": "{draad.color.blue.100}",
             "type": "color"
           }
         },
         "hover": {
           "color": {
-            "value": "{draad.color.yellow.300}",
+            "value": "{draad.color.blue.200}",
             "type": "color"
           }
         }
       },
       "focus": {
         "background-color": {
-          "value": "{draad.color.yellow.300}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "color": {
@@ -697,7 +697,7 @@
           "type": "color"
         },
         "outline-color": {
-          "value": "{draad.color.yellow.300}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "inverse": {
