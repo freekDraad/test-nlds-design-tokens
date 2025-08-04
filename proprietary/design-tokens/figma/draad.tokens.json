@@ -135,28 +135,32 @@
           }
         },
         "yellow": {
-          "200": {
-            "value": "#FFF4EB",
+          "100": {
+            "value": "#F1C715",
             "type": "color"
           },
-          "300": {
-            "value": "#FF7300",
+          "200": {
+            "value": "#E98400",
             "type": "color"
           }
         },
         "green": {
+          "100": {
+            "value": "#007A4A",
+            "type": "color"
+          },
           "200": {
-            "value": "#097B09",
+            "value": "#02613A",
             "type": "color"
           }
         },
         "blue": {
           "100": {
-            "value": "#00158A",
+            "value": "#0E3978",
             "type": "color"
           },
           "200": {
-            "value": "#001170",
+            "value": "#0B2E60",
             "type": "color"
           }
         },
@@ -633,7 +637,7 @@
       },
       "heading": {
         "color": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         },
         "font-family": {
@@ -645,7 +649,7 @@
           "type": "fontWeights"
         },
         "bright": {
-          "value": "{draad.color.blue.200}",
+          "value": "{draad.color.blue.100}",
           "type": "color"
         }
       },
@@ -910,29 +914,29 @@
         },
         "positive": {
           "background-color": {
-            "value": "{draad.color.green.200}",
+            "value": "{draad.color.green.100}",
             "type": "color"
           },
           "border-color": {
-            "value": "{draad.color.green.200}",
+            "value": "{draad.color.green.100}",
             "type": "color"
           },
           "color": {
-            "value": "{draad.color.green.200}",
+            "value": "{draad.color.green.100}",
             "type": "color"
           }
         },
         "warning": {
           "background-color": {
-            "value": "{draad.color.yellow.200}",
+            "value": "{draad.color.yellow.100}",
             "type": "color"
           },
           "border-color": {
-            "value": "{draad.color.yellow.200}",
+            "value": "{draad.color.yellow.100}",
             "type": "color"
           },
           "color": {
-            "value": "{draad.color.yellow.200}",
+            "value": "{draad.color.yellow.100}",
             "type": "color"
           }
         }
@@ -1648,7 +1652,7 @@
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "{draad.color.yellow.200}"
+              "value": "{draad.color.blue.100}"
             },
             "border-color": {
               "value": "transparent",
@@ -1682,7 +1686,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "#086B7D"
+              "value": "{draad.color.green.200}"
             },
             "border-color": {
               "type": "color",
@@ -1695,7 +1699,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{draad.color.blue.100}"
+            "value": "{draad.color.green.100}"
           },
           "border-color": {
             "type": "color",
@@ -1722,7 +1726,7 @@
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "#086B7D"
+              "value": "{draad.color.green.100}"
             },
             "border-color": {
               "type": "color",
@@ -1740,7 +1744,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{draad.color.blue.100}"
+              "value": "{draad.color.green.200}"
             },
             "border-color": {
               "type": "color",
@@ -4426,7 +4430,7 @@
             },
             "background-color": {
               "type": "color",
-              "value": "{draad.color.green.200}"
+              "value": "{draad.color.green.100}"
             },
             "border-color": {
               "type": "color",
