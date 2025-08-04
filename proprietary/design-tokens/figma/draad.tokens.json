@@ -62,11 +62,11 @@
         },
         "font-family": {
           "primary": {
-            "value": "\"Source Sans 3\", sans-serif",
+            "value": "\"Roboto\", sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "\"Source Sans 3\", sans-serif",
+            "value": "\"Roboto\", sans-serif",
             "type": "fontFamilies"
           }
         }
