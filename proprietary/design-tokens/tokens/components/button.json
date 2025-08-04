@@ -45,7 +45,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.blue.100}"
+            "value": "{draad.color.yellow.200}"
           },
           "border-color": {
             "value": "transparent",
@@ -163,7 +163,7 @@
       },
       "border-radius": {
         "type": "borderRadius",
-        "value": "{draad.border-radius.md}"
+        "value": "9999px"
       },
       "border-width": {
         "type": "borderWidth",

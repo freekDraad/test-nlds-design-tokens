@@ -61,11 +61,11 @@
       },
       "font-family": {
         "primary": {
-          "value": "\"Source Sans 3\", sans-serif",
+          "value": "\"Open Sans\", sans-serif",
           "type": "fontFamilies"
         },
         "secondary": {
-          "value": "\"Source Sans 3\", sans-serif",
+          "value": "\"Open Sans\", sans-serif",
           "type": "fontFamilies"
         }
       }
@@ -134,12 +134,8 @@
         }
       },
       "yellow": {
-        "100": {
-          "value": "#F1C715",
-          "type": "color"
-        },
         "200": {
-          "value": "#E98400",
+          "value": "#F18702",
           "type": "color"
         }
       },
@@ -149,17 +145,17 @@
           "type": "color"
         },
         "200": {
-          "value": "#02613A",
+          "value": "#00813C",
           "type": "color"
         }
       },
       "blue": {
         "100": {
-          "value": "#0E3978",
+          "value": "rgb(0, 99, 228)",
           "type": "color"
         },
         "200": {
-          "value": "#0B2E60",
+          "value": "#31287C",
           "type": "color"
         }
       },
