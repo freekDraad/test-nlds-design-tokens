@@ -79,28 +79,28 @@
         "hover": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.green.200}"
+            "value": "transparent"
           },
           "border-color": {
             "type": "color",
-            "value": "transparent"
+            "value": "{draad.color.blue.200}"
           },
           "color": {
             "type": "color",
-            "value": "{draad.color.white}"
+            "value": "{draad.color.blue.200}"
           }
         },
         "background-color": {
           "type": "color",
-          "value": "{draad.color.green.100}"
+          "value": "transparent"
         },
         "border-color": {
           "type": "color",
-          "value": "transparent"
+          "value": "{utrecht.interaction.color}"
         },
         "color": {
           "type": "color",
-          "value": "{draad.color.white}"
+          "value": "{utrecht.interaction.color}"
         },
         "disabled": {
           "background-color": {
@@ -119,15 +119,15 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.green.100}"
+            "value": "transparent"
           },
           "border-color": {
             "type": "color",
-            "value": "transparent"
+            "value": "{draad.color.blue.100}"
           },
           "color": {
             "type": "color",
-            "value": "#fff"
+            "value": "{draad.color.blue.100}"
           }
         },
         "font-weight": {
@@ -137,15 +137,15 @@
         "active": {
           "background-color": {
             "type": "color",
-            "value": "{draad.color.green.200}"
+            "value": "transparent"
           },
           "border-color": {
             "type": "color",
-            "value": "transparent"
+            "value": "{draad.color.blue.100}"
           },
           "color": {
             "type": "color",
-            "value": "#fff"
+            "value": "{draad.color.blue.100}"
           }
         }
       },
