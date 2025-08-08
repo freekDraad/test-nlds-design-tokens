@@ -52,21 +52,21 @@
         },
         "font-weight": {
           "normal": {
-            "value": "Regular",
+            "value": "400",
             "type": "fontWeights"
           },
           "bold": {
-            "value": "Bold",
+            "value": "700",
             "type": "fontWeights"
           }
         },
         "font-family": {
           "primary": {
-            "value": "\"Open Sans\", sans-serif",
+            "value": "\"regular\"",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "\"Open Sans\", sans-serif",
+            "value": "\"regular\"",
             "type": "fontFamilies"
           }
         }
